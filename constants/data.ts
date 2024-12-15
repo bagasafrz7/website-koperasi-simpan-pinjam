@@ -121,58 +121,103 @@ export type Product = {
   updated_at: string;
 };
 
-export const navItems: NavItem[] = [
+export const navItemsAdmin: NavItem[] = [
   {
     title: 'Dashboard',
     url: '/dashboard/overview',
     icon: 'dashboard',
     isActive: false,
     shortcut: ['d', 'd'],
-    items: [] // Empty array as there are no child items for Dashboard
+    items: []
   },
   {
-    title: 'Employee',
-    url: '/dashboard/employee',
-    icon: 'user',
-    shortcut: ['e', 'e'],
-    isActive: false,
-    items: [] // No child items
-  },
-  {
-    title: 'Product',
-    url: '/dashboard/product',
-    icon: 'product',
-    shortcut: ['p', 'p'],
-    isActive: false,
-    items: [] // No child items
-  },
-  {
-    title: 'Account',
+    title: 'Master Data',
     url: '#', // Placeholder as there is no direct link for the parent
-    icon: 'billing',
+    icon: 'settings',
     isActive: true,
-
     items: [
       {
-        title: 'Profile',
-        url: '/dashboard/profile',
+        title: 'Data Koperasi',
+        url: '/admin/master-data/koperasi',
         icon: 'userPen',
-        shortcut: ['m', 'm']
+        shortcut: ['k', 'k']
       },
       {
-        title: 'Login',
-        shortcut: ['l', 'l'],
-        url: '/',
-        icon: 'login'
-      }
+        title: 'Data Wilayah',
+        url: '/admin/master-data/wilayah',
+        icon: 'userPen',
+        shortcut: ['w', 'w']
+      },
+      {
+        title: 'Data Penggguna',
+        url: '/admin/master-data/pengguna',
+        icon: 'userPen',
+        shortcut: ['p', 'p']
+      },
+      {
+        title: 'Data Umum',
+        url: '/admin/master-data/umum',
+        icon: 'userPen',
+        shortcut: ['u', 'u']
+      },
     ]
   },
   {
-    title: 'Kanban',
-    url: '/dashboard/kanban',
-    icon: 'kanban',
-    shortcut: ['k', 'k'],
-    isActive: false,
-    items: [] // No child items
+    title: 'Laporan',
+    url: '#', // Placeholder as there is no direct link for the parent
+    icon: 'folderUp',
+    isActive: true,
+    items: [
+      {
+        title: 'Data Simpanan',
+        url: '/admin/laporan/simpanan',
+        icon: 'userPen',
+        shortcut: ['ls', 'ls']
+      },
+      {
+        title: 'Data Pinjaman',
+        url: '/admin/laporan/Pinjaman',
+        icon: 'userPen',
+        shortcut: ['lp', 'lp']
+      },
+      {
+        title: 'Data Umum',
+        url: '/admin/laporan/umum',
+        icon: 'userPen',
+        shortcut: ['lu', 'lu']
+      },
+    ]
   }
 ];
+
+export const navItemsUser: NavItem[] = [
+  {
+    title: 'Dashboard',
+    url: '/dashboard/overview',
+    icon: 'dashboard',
+    isActive: false,
+    shortcut: ['d', 'd'],
+    items: []
+  },
+  {
+    title: 'Profile',
+    url: '/user/profile',
+    icon: 'userPen',
+    shortcut: ['pr', 'pr'],
+    items: []
+  },
+  {
+    title: 'Ajukan Simpan/Pinjam',
+    url: '/user/ajukan',
+    icon: 'save',
+    shortcut: ['aj', 'aj'],
+    items: []
+  },
+  {
+    title: 'Riwayat Transaksi',
+    url: '/user/riwayat-transaksi',
+    icon: 'arrowLeftRight',
+    shortcut: ['rt', 'rt'],
+    items: []
+  }
+]

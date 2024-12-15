@@ -18,21 +18,25 @@ import { toast } from 'sonner';
 import * as z from 'zod';
 
 const formSchema = z.object({
+  name: z.string().min(1, { message: 'Harap masukan Nama Anda' }),
   email: z.string().email({ message: 'Harap masukan Email yang benar!' }),
+  phone: z.string().min(1, { message: 'Harap masukan Nomor Telepon Anda' }),
   password: z
     .string()
-    .min(8, { message: 'Minimal Kata Sandi adalah 8 karakter!' })
+    .min(1, { message: 'Minimal Kata Sandi adalah 8 karakter!' })
 });
 
 type UserFormValue = z.infer<typeof formSchema>;
 
-export default function UserAuthForm() {
+export default function UserAuthFormSignUp() {
   const searchParams = useSearchParams();
   const callbackUrl = searchParams.get('callbackUrl');
   const [loading, startTransition] = useTransition();
   const defaultValues = {
-    email: 'admin@admin.com',
-    password: 'password'
+    email: '',
+    name: '',
+    phone: '',
+    password: ''
   };
   const form = useForm<UserFormValue>({
     resolver: zodResolver(formSchema),
@@ -43,8 +47,6 @@ export default function UserAuthForm() {
     startTransition(() => {
       signIn('credentials', {
         email: data.email,
-        role: data.email === 'admin@admin.com' ? 'admin' : 'user',
-        name: data.email === 'admin@admin.com' ? 'Administrator' : '',
         callbackUrl: callbackUrl ?? '/dashboard'
       });
       toast.success('Signed In Successfully!');
@@ -56,8 +58,26 @@ export default function UserAuthForm() {
       <Form {...form}>
         <form
           onSubmit={form.handleSubmit(onSubmit)}
-          className="w-full space-y-4"
+          className="w-full space-y-2"
         >
+          <FormField
+            control={form.control}
+            name="name"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Nama</FormLabel>
+                <FormControl>
+                  <Input
+                    type="text"
+                    placeholder="Masukan nama Anda..."
+                    disabled={loading}
+                    {...field}
+                  />
+                </FormControl>
+                <FormMessage />
+              </FormItem>
+            )}
+          />
           <FormField
             control={form.control}
             name="email"
@@ -72,7 +92,25 @@ export default function UserAuthForm() {
                     {...field}
                   />
                 </FormControl>
-                <FormMessage className="text-red-500" />
+                <FormMessage />
+              </FormItem>
+            )}
+          />
+          <FormField
+            control={form.control}
+            name="phone"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Nomor Telepon</FormLabel>
+                <FormControl>
+                  <Input
+                    type="text"
+                    placeholder="Masukan nomor telepon Anda..."
+                    disabled={loading}
+                    {...field}
+                  />
+                </FormControl>
+                <FormMessage />
               </FormItem>
             )}
           />
@@ -84,19 +122,19 @@ export default function UserAuthForm() {
                 <FormLabel>Kata Sandi</FormLabel>
                 <FormControl>
                   <Input
-                    type="password"
+                    type="text"
                     placeholder="Masukan kata sandi Anda..."
                     disabled={loading}
                     {...field}
                   />
                 </FormControl>
-                <FormMessage className="text-red-500" />
+                <FormMessage />
               </FormItem>
             )}
           />
 
           <Button disabled={loading} className="ml-auto w-full" type="submit">
-            Masuk
+            Daftar
           </Button>
         </form>
       </Form>

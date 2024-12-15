@@ -29,7 +29,7 @@ import {
   SidebarMenuSubItem,
   SidebarRail
 } from '@/components/ui/sidebar';
-import { navItems } from '@/constants/data';
+import { navItemsAdmin, navItemsUser } from '@/constants/data';
 import {
   BadgeCheck,
   Bell,
@@ -46,7 +46,7 @@ import * as React from 'react';
 import { Icons } from '../icons';
 
 export const company = {
-  name: 'Acme Inc',
+  name: 'Koperasi Simpan Pinjam',
   logo: GalleryVerticalEnd,
   plan: 'Enterprise'
 };
@@ -72,9 +72,14 @@ export default function AppSidebar() {
         <SidebarGroup>
           <SidebarGroupLabel>Overview</SidebarGroupLabel>
           <SidebarMenu>
-            {navItems.map((item) => {
+            {(session?.user?.name === 'admin'
+              ? navItemsAdmin
+              : navItemsUser
+            ).map((item) => {
               const Icon = item.icon ? Icons[item.icon] : Icons.logo;
-              return item?.items && item?.items?.length > 0 ? (
+              const isActive = pathname === item.url;
+
+              return item.items && item.items.length > 0 ? (
                 <Collapsible
                   key={item.title}
                   asChild
@@ -85,16 +90,16 @@ export default function AppSidebar() {
                     <CollapsibleTrigger asChild>
                       <SidebarMenuButton
                         tooltip={item.title}
-                        isActive={pathname === item.url}
+                        isActive={isActive}
                       >
                         {item.icon && <Icon />}
-                        <span>{item.title}</span>
-                        <ChevronRight className="ml-auto transition-transform duration-200 group-data-[state=open]/collapsible:rotate-90" />
+                        <span className="hover:text-white">{item.title}</span>
+                        <ChevronRight className="ml-auto transition-transform duration-200 hover:text-white group-data-[state=open]/collapsible:rotate-90" />
                       </SidebarMenuButton>
                     </CollapsibleTrigger>
                     <CollapsibleContent>
                       <SidebarMenuSub>
-                        {item.items?.map((subItem) => (
+                        {item.items.map((subItem) => (
                           <SidebarMenuSubItem key={subItem.title}>
                             <SidebarMenuSubButton
                               asChild
@@ -115,7 +120,7 @@ export default function AppSidebar() {
                   <SidebarMenuButton
                     asChild
                     tooltip={item.title}
-                    isActive={pathname === item.url}
+                    isActive={isActive}
                   >
                     <Link href={item.url}>
                       <Icon />

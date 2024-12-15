@@ -18,10 +18,13 @@ const authConfig = {
         }
       },
       async authorize(credentials, req) {
+        const email = credentials?.email as String;
+        const name = email.split('@')[0];
         const user = {
           id: '1',
-          name: 'John',
-          email: credentials?.email as string
+          name: name,
+          email: credentials?.email as string,
+          role: credentials?.email === 'admin@admin.com' ? 'admin' : 'user'
         };
         if (user) {
           // Any object returned will be saved in `user` property of the JWT
