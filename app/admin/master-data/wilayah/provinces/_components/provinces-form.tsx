@@ -57,8 +57,7 @@ export default function ProvincesForm({ provinceId }: { provinceId?: number }) {
           name: values.name
         })
       : await fakeProvinces.createProvince({
-          name: values.name,
-          population: 0
+          name: values.name
         });
     if (response.success) {
       toast.success(

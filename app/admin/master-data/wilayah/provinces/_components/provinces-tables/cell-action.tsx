@@ -8,7 +8,7 @@ import {
   DropdownMenuTrigger
 } from '@/components/ui/dropdown-menu';
 import { Province } from '@/constants/mock-api-provinces';
-import { Edit, MoreHorizontal, Trash } from 'lucide-react';
+import { Edit, Eye, MoreHorizontal, Trash } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 
@@ -16,12 +16,14 @@ interface CellActionProps {
   data: Province;
   onDelete: (id: number) => void;
   onUpdate: (id: number) => void;
+  onDetail: (id: number) => void;
 }
 
 export const CellAction: React.FC<CellActionProps> = ({
   data,
   onDelete,
-  onUpdate
+  onUpdate,
+  onDetail
 }) => {
   const [loading, setLoading] = useState(false);
   const [open, setOpen] = useState(false);
@@ -45,6 +47,9 @@ export const CellAction: React.FC<CellActionProps> = ({
         <DropdownMenuContent align="end">
           <DropdownMenuLabel>Aksi</DropdownMenuLabel>
 
+          <DropdownMenuItem onClick={() => onDetail(data.id)}>
+            <Eye className="mr-2 h-4 w-4" /> Detail
+          </DropdownMenuItem>
           <DropdownMenuItem onClick={() => onUpdate(data.id)}>
             <Edit className="mr-2 h-4 w-4" /> Ubah
           </DropdownMenuItem>

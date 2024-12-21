@@ -3,20 +3,22 @@ import { DataTableResetFilter } from '@/components/ui/table/data-table-reset-fil
 import { DataTableSearch } from '@/components/ui/table/data-table-search';
 import { useProvincesTableFilters } from './use-provinces-table-filters';
 import { Province } from '@/constants/mock-api-provinces';
-import { CellAction } from './cell-action'; // Pastikan import ini benar
+import { CellAction } from './cell-action';
 import { ColumnDef } from '@tanstack/react-table';
-import { Checkbox } from '@/components/ui/checkbox';
+import Link from 'next/link';
 
 export default function ProvincesTable({
   data,
   totalData,
   onDelete,
-  onUpdate
+  onUpdate,
+  onDetail
 }: {
   data: Province[];
   totalData: number;
   onDelete: (id: number) => void;
   onUpdate: (id: number) => void;
+  onDetail: (id: number) => void;
 }) {
   const {
     isAnyFilterActive,
@@ -28,31 +30,20 @@ export default function ProvincesTable({
 
   const columns: ColumnDef<Province>[] = [
     {
-      id: 'select',
-      header: ({ table }) => (
-        <Checkbox
-          checked={table.getIsAllPageRowsSelected()}
-          onCheckedChange={(value) => table.toggleAllPageRowsSelected(!!value)}
-          aria-label="Select all"
-        />
-      ),
-      cell: ({ row }) => (
-        <Checkbox
-          checked={row.getIsSelected()}
-          onCheckedChange={(value) => row.toggleSelected(!!value)}
-          aria-label="Select row"
-        />
-      ),
-      enableSorting: false,
-      enableHiding: false
-    },
-    {
       accessorKey: 'id',
       header: 'ID'
     },
     {
       accessorKey: 'name',
-      header: 'Nama Provinsi'
+      header: 'Nama Provinsi',
+      cell: ({ row }) => (
+        <Link
+          href={`/admin/master-data/wilayah/city/${row.original.id}`}
+          className="underline"
+        >
+          {row.original.name}
+        </Link>
+      )
     },
     {
       id: 'actions',
@@ -61,6 +52,7 @@ export default function ProvincesTable({
           data={row.original}
           onDelete={onDelete}
           onUpdate={onUpdate}
+          onDetail={onDetail}
         />
       )
     }

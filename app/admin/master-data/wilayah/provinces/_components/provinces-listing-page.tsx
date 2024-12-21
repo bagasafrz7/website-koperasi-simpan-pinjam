@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { useSearchParams } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { Plus } from 'lucide-react';
 import { toast } from 'sonner';
 import PageContainer from '@/components/layout/page-container';
@@ -40,6 +40,7 @@ const formSchema = z.object({
 
 export default function ProvincesListingPage() {
   const searchParams = useSearchParams();
+  const router = useRouter();
 
   const [provinces, setProvinces] = useState<Province[]>([]);
   const [totalProvinces, setTotalProvinces] = useState(0);
@@ -85,6 +86,10 @@ export default function ProvincesListingPage() {
     setProvinceId(id);
   };
 
+  const handleDetail = async (id: number) => {
+    router.push(`/admin/master-data/wilayah/city/${id}`);
+  };
+
   useEffect(() => {
     fetchData();
   }, [page, pageLimit, search]);
@@ -120,8 +125,7 @@ export default function ProvincesListingPage() {
           name: values.name
         })
       : await fakeProvinces.createProvince({
-          name: values.name,
-          population: 0
+          name: values.name
         });
     if (response.success) {
       toast.success(
@@ -164,6 +168,7 @@ export default function ProvincesListingPage() {
           totalData={totalProvinces}
           onDelete={handleDelete}
           onUpdate={handleUpdate}
+          onDetail={handleDetail}
         />
       </div>
 
