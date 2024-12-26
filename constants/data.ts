@@ -144,7 +144,7 @@ export const navItemsAdmin: NavItem[] = [
       },
       {
         title: 'Data Wilayah',
-        url: '/admin/master-data/wilayah',
+        url: '/admin/master-data/wilayah/provinces',
         icon: 'userPen',
         shortcut: ['w', 'w']
       },
