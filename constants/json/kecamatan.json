@@ -1,0 +1,6213 @@
+[
+  {
+      "id": "3371",
+      "kecamatan": [
+          {
+              "id": "337101",
+              "nama": "Magelang Selatan"
+          },
+          {
+              "id": "337102",
+              "nama": "Magelang Utara"
+          },
+          {
+              "id": "337103",
+              "nama": "Magelang Tengah"
+          }
+      ]
+  },
+  {
+      "id": "1209",
+      "kecamatan": [
+          {
+              "id": "120908",
+              "nama": "Meranti"
+          },
+          {
+              "id": "120909",
+              "nama": "Air Joman"
+          },
+          {
+              "id": "120910",
+              "nama": "Tanjung Balai"
+          },
+          {
+              "id": "120911",
+              "nama": "Sei Kepayang"
+          },
+          {
+              "id": "120912",
+              "nama": "Simpang Empat"
+          },
+          {
+              "id": "120913",
+              "nama": "Air Batu"
+          },
+          {
+              "id": "120914",
+              "nama": "Pulau Rakyat"
+          },
+          {
+              "id": "120915",
+              "nama": "Bandar Pulau"
+          },
+          {
+              "id": "120916",
+              "nama": "Buntu Pane"
+          },
+          {
+              "id": "120917",
+              "nama": "Bandar Pasir Mandoge"
+          },
+          {
+              "id": "120918",
+              "nama": "Aek Kuasan"
+          },
+          {
+              "id": "120919",
+              "nama": "Kota Kisaran Barat"
+          },
+          {
+              "id": "120920",
+              "nama": "Kota Kisaran Timur"
+          },
+          {
+              "id": "120921",
+              "nama": "Aek Songsongan"
+          },
+          {
+              "id": "120922",
+              "nama": "Rahunig"
+          },
+          {
+              "id": "120923",
+              "nama": "Sei Dadap"
+          },
+          {
+              "id": "120924",
+              "nama": "Sei Kepayang Barat"
+          },
+          {
+              "id": "120925",
+              "nama": "Sei Kepayang Timur"
+          },
+          {
+              "id": "120926",
+              "nama": "Tinggi Raja"
+          },
+          {
+              "id": "120927",
+              "nama": "Setia Janji"
+          },
+          {
+              "id": "120928",
+              "nama": "Silau Laut"
+          },
+          {
+              "id": "120929",
+              "nama": "Rawang Panca Arga"
+          },
+          {
+              "id": "120930",
+              "nama": "Pulo Bandring"
+          },
+          {
+              "id": "120931",
+              "nama": "Teluk Dalam"
+          },
+          {
+              "id": "120932",
+              "nama": "Aek Ledong"
+          }
+      ]
+  },
+  {
+      "id": "7109",
+      "kecamatan": [
+          {
+              "id": "710901",
+              "nama": "Siau Timur"
+          },
+          {
+              "id": "710902",
+              "nama": "Siau Barat"
+          },
+          {
+              "id": "710903",
+              "nama": "Tagulandang"
+          },
+          {
+              "id": "710904",
+              "nama": "Siau Timur Selatan"
+          },
+          {
+              "id": "710905",
+              "nama": "Siau Barat Selatan"
+          },
+          {
+              "id": "710906",
+              "nama": "Tagulandang Utara"
+          },
+          {
+              "id": "710907",
+              "nama": "Biaro"
+          },
+          {
+              "id": "710908",
+              "nama": "Siau Barat Utara"
+          },
+          {
+              "id": "710909",
+              "nama": "Siau Tengah"
+          },
+          {
+              "id": "710910",
+              "nama": "Tagulandang Selatan"
+          }
+      ]
+  },
+  {
+      "id": "9117",
+      "kecamatan": [
+          {
+              "id": "911701",
+              "nama": "Obaa"
+          },
+          {
+              "id": "911702",
+              "nama": "Mambioman Bapai"
+          },
+          {
+              "id": "911703",
+              "nama": "Citak-Mitak"
+          },
+          {
+              "id": "911704",
+              "nama": "Edera"
+          },
+          {
+              "id": "911705",
+              "nama": "Haju"
+          },
+          {
+              "id": "911706",
+              "nama": "Assue"
+          },
+          {
+              "id": "911707",
+              "nama": "Kaibar"
+          },
+          {
+              "id": "911708",
+              "nama": "Passue"
+          },
+          {
+              "id": "911709",
+              "nama": "Minyamur"
+          },
+          {
+              "id": "911710",
+              "nama": "Venaha"
+          },
+          {
+              "id": "911711",
+              "nama": "Syahcame"
+          },
+          {
+              "id": "911712",
+              "nama": "Yakomi"
+          },
+          {
+              "id": "911713",
+              "nama": "Bamgi"
+          },
+          {
+              "id": "911714",
+              "nama": "Passue Bawah"
+          },
+          {
+              "id": "911715",
+              "nama": "Ti Zain"
+          }
+      ]
+  },
+  {
+      "id": "3326",
+      "kecamatan": [
+          {
+              "id": "332601",
+              "nama": "Kandangserang"
+          },
+          {
+              "id": "332602",
+              "nama": "Paninggaran"
+          },
+          {
+              "id": "332603",
+              "nama": "Lebakbarang"
+          },
+          {
+              "id": "332604",
+              "nama": "Petungkriyono"
+          },
+          {
+              "id": "332605",
+              "nama": "Talun"
+          },
+          {
+              "id": "332606",
+              "nama": "Doro"
+          },
+          {
+              "id": "332607",
+              "nama": "Karanganyar"
+          },
+          {
+              "id": "332608",
+              "nama": "Kajen"
+          },
+          {
+              "id": "332609",
+              "nama": "Kesesi"
+          },
+          {
+              "id": "332610",
+              "nama": "Sragi"
+          },
+          {
+              "id": "332611",
+              "nama": "Bojong"
+          },
+          {
+              "id": "332612",
+              "nama": "Wonopringgo"
+          },
+          {
+              "id": "332613",
+              "nama": "Kedungwuni"
+          },
+          {
+              "id": "332614",
+              "nama": "Buaran"
+          },
+          {
+              "id": "332615",
+              "nama": "Tirto"
+          },
+          {
+              "id": "332616",
+              "nama": "Wiradesa"
+          },
+          {
+              "id": "332617",
+              "nama": "Siwalan"
+          },
+          {
+              "id": "332618",
+              "nama": "Karangdadap"
+          },
+          {
+              "id": "332619",
+              "nama": "Wonokerto"
+          }
+      ]
+  },
+  {
+      "id": "9402",
+      "kecamatan": [
+          {
+              "id": "9402110",
+              "nama": "WAMENA"
+          },
+          {
+              "id": "9402111",
+              "nama": "ASOLOKOBAL"
+          },
+          {
+              "id": "9402112",
+              "nama": "WALELAGAMA"
+          },
+          {
+              "id": "9402113",
+              "nama": "TRIKORA"
+          },
+          {
+              "id": "9402114",
+              "nama": "NAPUA"
+          },
+          {
+              "id": "9402115",
+              "nama": "WALAIK"
+          },
+          {
+              "id": "9402116",
+              "nama": "WOUMA"
+          },
+          {
+              "id": "9402117",
+              "nama": "WALESI"
+          },
+          {
+              "id": "9402118",
+              "nama": "ASOTIPO"
+          },
+          {
+              "id": "9402119",
+              "nama": "MAIMA"
+          },
+          {
+              "id": "9402120",
+              "nama": "HUBIKOSI"
+          },
+          {
+              "id": "9402121",
+              "nama": "PELEBAGA"
+          },
+          {
+              "id": "9402122",
+              "nama": "IBELE"
+          },
+          {
+              "id": "9402123",
+              "nama": "TAILAREK"
+          },
+          {
+              "id": "9402124",
+              "nama": "HUBIKIAK"
+          },
+          {
+              "id": "9402180",
+              "nama": "ASOLOGAIMA"
+          },
+          {
+              "id": "9402181",
+              "nama": "MUSATFAK"
+          },
+          {
+              "id": "9402182",
+              "nama": "SILO KARNO DOGA"
+          },
+          {
+              "id": "9402183",
+              "nama": "PYRAMID"
+          },
+          {
+              "id": "9402184",
+              "nama": "MULIAMA"
+          },
+          {
+              "id": "9402190",
+              "nama": "KURULU"
+          },
+          {
+              "id": "9402191",
+              "nama": "USILIMO"
+          },
+          {
+              "id": "9402192",
+              "nama": "WITA WAYA"
+          },
+          {
+              "id": "9402193",
+              "nama": "LIBAREK"
+          },
+          {
+              "id": "9402194",
+              "nama": "WADANGKU"
+          },
+          {
+              "id": "9402195",
+              "nama": "PISUGI"
+          },
+          {
+              "id": "9402220",
+              "nama": "BOLAKME"
+          },
+          {
+              "id": "9402221",
+              "nama": "WOLLO"
+          },
+          {
+              "id": "9402222",
+              "nama": "YALENGGA"
+          },
+          {
+              "id": "9402223",
+              "nama": "TAGIME"
+          },
+          {
+              "id": "9402224",
+              "nama": "MOLAGALOME"
+          },
+          {
+              "id": "9402225",
+              "nama": "TAGINERI"
+          },
+          {
+              "id": "9402226",
+              "nama": "BUGI"
+          },
+          {
+              "id": "9402227",
+              "nama": "BPIRI"
+          },
+          {
+              "id": "9402228",
+              "nama": "KORAGI"
+          },
+          {
+              "id": "9402611",
+              "nama": "ITLAY HASIGE"
+          },
+          {
+              "id": "9402612",
+              "nama": "SIEPKOSI"
+          }
+      ]
+  },
+  {
+      "id": "2171",
+      "kecamatan": [
+          {
+              "id": "217101",
+              "nama": "Belakang Padang"
+          },
+          {
+              "id": "217102",
+              "nama": "Batu Ampar"
+          },
+          {
+              "id": "217103",
+              "nama": "Sekupang"
+          },
+          {
+              "id": "217104",
+              "nama": "Nongsa"
+          },
+          {
+              "id": "217105",
+              "nama": "Bulang"
+          },
+          {
+              "id": "217106",
+              "nama": "Lubuk Baja"
+          },
+          {
+              "id": "217107",
+              "nama": "Sei Beduk"
+          },
+          {
+              "id": "217108",
+              "nama": "Galang"
+          },
+          {
+              "id": "217109",
+              "nama": "Bengkong"
+          },
+          {
+              "id": "217110",
+              "nama": "Batam Kota"
+          },
+          {
+              "id": "217111",
+              "nama": "Sagulung"
+          },
+          {
+              "id": "217112",
+              "nama": "Batu Aji"
+          }
+      ]
+  },
+  {
+      "id": "7373",
+      "kecamatan": [
+          {
+              "id": "737301",
+              "nama": "Wara"
+          },
+          {
+              "id": "737302",
+              "nama": "Wara Utara"
+          },
+          {
+              "id": "737303",
+              "nama": "Wara Selatan"
+          },
+          {
+              "id": "737304",
+              "nama": "Telluwanua"
+          },
+          {
+              "id": "737305",
+              "nama": "Wara Timur"
+          },
+          {
+              "id": "737306",
+              "nama": "Wara Barat"
+          },
+          {
+              "id": "737307",
+              "nama": "Sendana"
+          },
+          {
+              "id": "737308",
+              "nama": "Mungkajang"
+          },
+          {
+              "id": "737309",
+              "nama": "Bara"
+          }
+      ]
+  },
+  {
+      "id": "3275",
+      "kecamatan": [
+          {
+              "id": "327501",
+              "nama": "Bekasi Timur"
+          },
+          {
+              "id": "327502",
+              "nama": "Bekasi Barat"
+          },
+          {
+              "id": "327503",
+              "nama": "Bekasi Utara"
+          },
+          {
+              "id": "327504",
+              "nama": "Bekasi Selatan"
+          },
+          {
+              "id": "327505",
+              "nama": "Rawalumbu"
+          },
+          {
+              "id": "327506",
+              "nama": "Medansatria"
+          },
+          {
+              "id": "327507",
+              "nama": "Bantargebang"
+          },
+          {
+              "id": "327508",
+              "nama": "Pondokgede"
+          },
+          {
+              "id": "327509",
+              "nama": "Jatiasih"
+          },
+          {
+              "id": "327510",
+              "nama": "Jatisampurna"
+          },
+          {
+              "id": "327511",
+              "nama": "Mustikajaya"
+          },
+          {
+              "id": "327512",
+              "nama": "Pondokmelati"
+          }
+      ]
+  },
+  {
+      "id": "9101",
+      "kecamatan": [
+          {
+              "id": "910101",
+              "nama": "Merauke"
+          },
+          {
+              "id": "910102",
+              "nama": "Muting"
+          },
+          {
+              "id": "910103",
+              "nama": "Okaba"
+          },
+          {
+              "id": "910104",
+              "nama": "Kimaam"
+          },
+          {
+              "id": "910105",
+              "nama": "Semangga"
+          },
+          {
+              "id": "910106",
+              "nama": "Tanah Miring"
+          },
+          {
+              "id": "910107",
+              "nama": "Jagebob"
+          },
+          {
+              "id": "910108",
+              "nama": "Sota"
+          },
+          {
+              "id": "910109",
+              "nama": "Ulilin"
+          },
+          {
+              "id": "910110",
+              "nama": "Elikobal"
+          },
+          {
+              "id": "910111",
+              "nama": "Kurik"
+          },
+          {
+              "id": "910112",
+              "nama": "Naukenjerai"
+          },
+          {
+              "id": "910113",
+              "nama": "Animha"
+          },
+          {
+              "id": "910114",
+              "nama": "Malind"
+          },
+          {
+              "id": "910115",
+              "nama": "Tubang"
+          },
+          {
+              "id": "910116",
+              "nama": "Ngguti"
+          },
+          {
+              "id": "910117",
+              "nama": "Kaptel"
+          },
+          {
+              "id": "910118",
+              "nama": "Tabonji"
+          },
+          {
+              "id": "910119",
+              "nama": "Waan"
+          },
+          {
+              "id": "910120",
+              "nama": "Ilwayab"
+          }
+      ]
+  },
+  {
+      "id": "9414",
+      "kecamatan": [
+          {
+              "id": "9414010",
+              "nama": "NAMBIOMAN BAPAI"
+          },
+          {
+              "id": "9414011",
+              "nama": "MINYAMUR"
+          },
+          {
+              "id": "9414020",
+              "nama": "EDERA"
+          },
+          {
+              "id": "9414021",
+              "nama": "VENAHA"
+          },
+          {
+              "id": "9414022",
+              "nama": "SYAHCAME"
+          },
+          {
+              "id": "9414023",
+              "nama": "BAMGI"
+          },
+          {
+              "id": "9414024",
+              "nama": "YAKOMI"
+          },
+          {
+              "id": "9414030",
+              "nama": "OBAA"
+          },
+          {
+              "id": "9414031",
+              "nama": "PASSUE"
+          },
+          {
+              "id": "9414040",
+              "nama": "HAJU"
+          },
+          {
+              "id": "9414050",
+              "nama": "ASSUE"
+          },
+          {
+              "id": "9414060",
+              "nama": "CITAKMITAK"
+          },
+          {
+              "id": "9414061",
+              "nama": "KAIBAR"
+          },
+          {
+              "id": "9414062",
+              "nama": "PASSUE BAWAH"
+          },
+          {
+              "id": "9414063",
+              "nama": "TI-ZAIN"
+          }
+      ]
+  },
+  {
+      "id": "8205",
+      "kecamatan": [
+          {
+              "id": "820501",
+              "nama": "Mangoli Timur"
+          },
+          {
+              "id": "820502",
+              "nama": "Sanana"
+          },
+          {
+              "id": "820503",
+              "nama": "Sulabesi Barat"
+          },
+          {
+              "id": "820506",
+              "nama": "Mangoli Barat"
+          },
+          {
+              "id": "820507",
+              "nama": "Sulabesi Tengah"
+          },
+          {
+              "id": "820508",
+              "nama": "Sulabesi Timur"
+          },
+          {
+              "id": "820509",
+              "nama": "Sulabesi Selatan"
+          },
+          {
+              "id": "820510",
+              "nama": "Mangoli Utara Timur"
+          },
+          {
+              "id": "820511",
+              "nama": "Mangoli Tengah"
+          },
+          {
+              "id": "820512",
+              "nama": "Mangoli Selatan"
+          },
+          {
+              "id": "820513",
+              "nama": "Mangoli Utara"
+          },
+          {
+              "id": "820518",
+              "nama": "Sanana Utara"
+          }
+      ]
+  },
+  {
+      "id": "7324",
+      "kecamatan": [
+          {
+              "id": "732401",
+              "nama": "Mangkutana"
+          },
+          {
+              "id": "732402",
+              "nama": "Nuha"
+          },
+          {
+              "id": "732403",
+              "nama": "Towuti"
+          },
+          {
+              "id": "732404",
+              "nama": "Malili"
+          },
+          {
+              "id": "732405",
+              "nama": "Angkona"
+          },
+          {
+              "id": "732406",
+              "nama": "Wotu"
+          },
+          {
+              "id": "732407",
+              "nama": "Burau"
+          },
+          {
+              "id": "732408",
+              "nama": "Tomoni"
+          },
+          {
+              "id": "732409",
+              "nama": "Tomoni Timur"
+          },
+          {
+              "id": "732410",
+              "nama": "Kalaena"
+          },
+          {
+              "id": "732411",
+              "nama": "Wasuponda"
+          }
+      ]
+  },
+  {
+      "id": "5319",
+      "kecamatan": [
+          {
+              "id": "531901",
+              "nama": "Borong"
+          },
+          {
+              "id": "531902",
+              "nama": "Poco Ranaka"
+          },
+          {
+              "id": "531903",
+              "nama": "Lamba Leda"
+          },
+          {
+              "id": "531904",
+              "nama": "Sambi Rampas"
+          },
+          {
+              "id": "531905",
+              "nama": "Elar"
+          },
+          {
+              "id": "531906",
+              "nama": "Kota Komba"
+          },
+          {
+              "id": "531907",
+              "nama": "Rana Mese"
+          },
+          {
+              "id": "531908",
+              "nama": "Poco Ranaka Timur"
+          },
+          {
+              "id": "531909",
+              "nama": "Elar Selatan"
+          }
+      ]
+  },
+  {
+      "id": "3672",
+      "kecamatan": [
+          {
+              "id": "367201",
+              "nama": "Cibeber"
+          },
+          {
+              "id": "367202",
+              "nama": "Cilegon"
+          },
+          {
+              "id": "367203",
+              "nama": "Pulomerak"
+          },
+          {
+              "id": "367204",
+              "nama": "Ciwandan"
+          },
+          {
+              "id": "367205",
+              "nama": "Jombang"
+          },
+          {
+              "id": "367206",
+              "nama": "Gerogol"
+          },
+          {
+              "id": "367207",
+              "nama": "Purwakarta"
+          },
+          {
+              "id": "367208",
+              "nama": "Citangkil"
+          }
+      ]
+  },
+  {
+      "id": "6309",
+      "kecamatan": [
+          {
+              "id": "630901",
+              "nama": "Banua Lawas"
+          },
+          {
+              "id": "630902",
+              "nama": "Kelua"
+          },
+          {
+              "id": "630903",
+              "nama": "Tanta"
+          },
+          {
+              "id": "630904",
+              "nama": "Tanjung"
+          },
+          {
+              "id": "630905",
+              "nama": "Haruai"
+          },
+          {
+              "id": "630906",
+              "nama": "Murung Pudak"
+          },
+          {
+              "id": "630907",
+              "nama": "Muara Uya"
+          },
+          {
+              "id": "630908",
+              "nama": "Muara Harus"
+          },
+          {
+              "id": "630909",
+              "nama": "Pugaan"
+          },
+          {
+              "id": "630910",
+              "nama": "Upau"
+          },
+          {
+              "id": "630911",
+              "nama": "Jaro"
+          },
+          {
+              "id": "630912",
+              "nama": "Bintang Ara"
+          }
+      ]
+  },
+  {
+      "id": "9204",
+      "kecamatan": [
+          {
+              "id": "920401",
+              "nama": "Teminabuan"
+          },
+          {
+              "id": "920404",
+              "nama": "Inanwatan"
+          },
+          {
+              "id": "920406",
+              "nama": "Sawiat"
+          },
+          {
+              "id": "920409",
+              "nama": "Kokoda"
+          },
+          {
+              "id": "920410",
+              "nama": "Moswaren"
+          },
+          {
+              "id": "920411",
+              "nama": "Seremuk"
+          },
+          {
+              "id": "920412",
+              "nama": "Wayer"
+          },
+          {
+              "id": "920414",
+              "nama": "Kais"
+          },
+          {
+              "id": "920415",
+              "nama": "Konda"
+          },
+          {
+              "id": "920420",
+              "nama": "Matemani"
+          },
+          {
+              "id": "920421",
+              "nama": "Kokoda Utara"
+          },
+          {
+              "id": "920422",
+              "nama": "Saifi"
+          },
+          {
+              "id": "920424",
+              "nama": "Fokour"
+          },
+          {
+              "id": "920425",
+              "nama": "Salkma"
+          },
+          {
+              "id": "920426",
+              "nama": "Kais Darat"
+          }
+      ]
+  },
+  {
+      "id": "1771",
+      "kecamatan": [
+          {
+              "id": "177101",
+              "nama": "Selebar"
+          },
+          {
+              "id": "177102",
+              "nama": "Gading Cempaka"
+          },
+          {
+              "id": "177103",
+              "nama": "Teluk Segara"
+          },
+          {
+              "id": "177104",
+              "nama": "Muara Bangka Hulu"
+          },
+          {
+              "id": "177105",
+              "nama": "Kampung Melayu"
+          },
+          {
+              "id": "177106",
+              "nama": "Ratu Agung"
+          },
+          {
+              "id": "177107",
+              "nama": "Ratu Samban"
+          },
+          {
+              "id": "177108",
+              "nama": "Sungai Serut"
+          },
+          {
+              "id": "177109",
+              "nama": "Singaran Pati"
+          }
+      ]
+  },
+  {
+      "id": "3520",
+      "kecamatan": [
+          {
+              "id": "352001",
+              "nama": "Poncol"
+          },
+          {
+              "id": "352002",
+              "nama": "Parang"
+          },
+          {
+              "id": "352003",
+              "nama": "Lembeyan"
+          },
+          {
+              "id": "352004",
+              "nama": "Takeran"
+          },
+          {
+              "id": "352005",
+              "nama": "Kawedanan"
+          },
+          {
+              "id": "352006",
+              "nama": "Magetan"
+          },
+          {
+              "id": "352007",
+              "nama": "Plaosan"
+          },
+          {
+              "id": "352008",
+              "nama": "Panekan"
+          },
+          {
+              "id": "352009",
+              "nama": "Sukomoro"
+          },
+          {
+              "id": "352010",
+              "nama": "Bendo"
+          },
+          {
+              "id": "352011",
+              "nama": "Maospati"
+          },
+          {
+              "id": "352012",
+              "nama": "Barat"
+          },
+          {
+              "id": "352013",
+              "nama": "Karangrejo"
+          },
+          {
+              "id": "352014",
+              "nama": "Karas"
+          },
+          {
+              "id": "352015",
+              "nama": "Kartoharjo"
+          },
+          {
+              "id": "352016",
+              "nama": "Ngariboyo"
+          },
+          {
+              "id": "352017",
+              "nama": "Nguntoronadi"
+          },
+          {
+              "id": "352018",
+              "nama": "Sidorejo"
+          }
+      ]
+  },
+  {
+      "id": "6372",
+      "kecamatan": [
+          {
+              "id": "637202",
+              "nama": "Landasan Ulin"
+          },
+          {
+              "id": "637203",
+              "nama": "Cempaka"
+          },
+          {
+              "id": "637204",
+              "nama": "Banjarbaru Utara"
+          },
+          {
+              "id": "637205",
+              "nama": "Banjarbaru Selatan"
+          },
+          {
+              "id": "637206",
+              "nama": "Liang Anggang"
+          }
+      ]
+  },
+  {
+      "id": "1376",
+      "kecamatan": [
+          {
+              "id": "137601",
+              "nama": "Payakumbuh Barat"
+          },
+          {
+              "id": "137602",
+              "nama": "Payakumbuh Utara"
+          },
+          {
+              "id": "137603",
+              "nama": "Payakumbuh Timur"
+          },
+          {
+              "id": "137604",
+              "nama": "Lamposi Tigo Nagori"
+          },
+          {
+              "id": "137605",
+              "nama": "Payakumbuh Selatan"
+          }
+      ]
+  },
+  {
+      "id": "7308",
+      "kecamatan": [
+          {
+              "id": "730801",
+              "nama": "Bontocani"
+          },
+          {
+              "id": "730802",
+              "nama": "Kahu"
+          },
+          {
+              "id": "730803",
+              "nama": "Kajuara"
+          },
+          {
+              "id": "730804",
+              "nama": "Salomekko"
+          },
+          {
+              "id": "730805",
+              "nama": "Tonra"
+          },
+          {
+              "id": "730806",
+              "nama": "Libureng"
+          },
+          {
+              "id": "730807",
+              "nama": "Mare"
+          },
+          {
+              "id": "730808",
+              "nama": "Sibulue"
+          },
+          {
+              "id": "730809",
+              "nama": "Barebbo"
+          },
+          {
+              "id": "730810",
+              "nama": "Cina"
+          },
+          {
+              "id": "730811",
+              "nama": "Ponre"
+          },
+          {
+              "id": "730812",
+              "nama": "Lappariaja"
+          },
+          {
+              "id": "730813",
+              "nama": "Lamuru"
+          },
+          {
+              "id": "730814",
+              "nama": "Ulaweng"
+          },
+          {
+              "id": "730815",
+              "nama": "Palakka"
+          },
+          {
+              "id": "730816",
+              "nama": "Awangpone"
+          },
+          {
+              "id": "730817",
+              "nama": "Tellu Siattinge"
+          },
+          {
+              "id": "730818",
+              "nama": "Ajangale"
+          },
+          {
+              "id": "730819",
+              "nama": "Dua Boccoe"
+          },
+          {
+              "id": "730820",
+              "nama": "Cenrana"
+          },
+          {
+              "id": "730821",
+              "nama": "Tanete Riattang"
+          },
+          {
+              "id": "730822",
+              "nama": "Tanete Riattang Barat"
+          },
+          {
+              "id": "730823",
+              "nama": "Tanete Riattang Timur"
+          },
+          {
+              "id": "730824",
+              "nama": "Amali"
+          },
+          {
+              "id": "730825",
+              "nama": "Tellulimpoe"
+          },
+          {
+              "id": "730826",
+              "nama": "Bengo"
+          },
+          {
+              "id": "730827",
+              "nama": "Patimpeng"
+          }
+      ]
+  },
+  {
+      "id": "7471",
+      "kecamatan": [
+          {
+              "id": "747101",
+              "nama": "Mandonga"
+          },
+          {
+              "id": "747102",
+              "nama": "Kendari"
+          },
+          {
+              "id": "747103",
+              "nama": "Baruga"
+          },
+          {
+              "id": "747104",
+              "nama": "Poasia"
+          },
+          {
+              "id": "747105",
+              "nama": "Kendari Barat"
+          },
+          {
+              "id": "747106",
+              "nama": "Abeli"
+          },
+          {
+              "id": "747107",
+              "nama": "Wua-Wua"
+          },
+          {
+              "id": "747108",
+              "nama": "Kadia"
+          },
+          {
+              "id": "747109",
+              "nama": "Puuwatu"
+          },
+          {
+              "id": "747110",
+              "nama": "Kambu"
+          }
+      ]
+  },
+  {
+      "id": "3577",
+      "kecamatan": [
+          {
+              "id": "357701",
+              "nama": "Kartoharjo"
+          },
+          {
+              "id": "357702",
+              "nama": "Manguharjo"
+          },
+          {
+              "id": "357703",
+              "nama": "Taman"
+          }
+      ]
+  },
+  {
+      "id": "3218",
+      "kecamatan": [
+          {
+              "id": "321801",
+              "nama": "Parigi"
+          },
+          {
+              "id": "321802",
+              "nama": "Cijulang"
+          },
+          {
+              "id": "321803",
+              "nama": "Cimerak"
+          },
+          {
+              "id": "321804",
+              "nama": "Cigugur"
+          },
+          {
+              "id": "321805",
+              "nama": "Langkaplancar"
+          },
+          {
+              "id": "321806",
+              "nama": "Mangunjaya"
+          },
+          {
+              "id": "321807",
+              "nama": "Padaherang"
+          },
+          {
+              "id": "321808",
+              "nama": "Kalipucang"
+          },
+          {
+              "id": "321809",
+              "nama": "Pangandaran"
+          },
+          {
+              "id": "321810",
+              "nama": "Sidamulih"
+          }
+      ]
+  },
+  {
+      "id": "1225",
+      "kecamatan": [
+          {
+              "id": "122501",
+              "nama": "Lahomi"
+          },
+          {
+              "id": "122502",
+              "nama": "Sirombu"
+          },
+          {
+              "id": "122503",
+              "nama": "Mandrehe Barat"
+          },
+          {
+              "id": "122504",
+              "nama": "Moro'o"
+          },
+          {
+              "id": "122505",
+              "nama": "Mandrehe"
+          },
+          {
+              "id": "122506",
+              "nama": "Mandrehe Utara"
+          },
+          {
+              "id": "122507",
+              "nama": "Lolofitu Moi"
+          },
+          {
+              "id": "122508",
+              "nama": "Ulu Moro'o"
+          }
+      ]
+  },
+  {
+      "id": "7172",
+      "kecamatan": [
+          {
+              "id": "717201",
+              "nama": "Lembeh Selatan"
+          },
+          {
+              "id": "717202",
+              "nama": "Madidir"
+          },
+          {
+              "id": "717203",
+              "nama": "Ranowulu"
+          },
+          {
+              "id": "717204",
+              "nama": "Aertembaga"
+          },
+          {
+              "id": "717205",
+              "nama": "Matuari"
+          },
+          {
+              "id": "717206",
+              "nama": "Girian"
+          },
+          {
+              "id": "717207",
+              "nama": "Maesa"
+          },
+          {
+              "id": "717208",
+              "nama": "Lembeh Utara"
+          }
+      ]
+  },
+  {
+      "id": "9212",
+      "kecamatan": [
+          {
+              "id": "921201",
+              "nama": "Anggi"
+          },
+          {
+              "id": "921202",
+              "nama": "Anggi Gida"
+          },
+          {
+              "id": "921203",
+              "nama": "Membey"
+          },
+          {
+              "id": "921204",
+              "nama": "Sururey"
+          },
+          {
+              "id": "921205",
+              "nama": "Didohu"
+          },
+          {
+              "id": "921206",
+              "nama": "Taige"
+          },
+          {
+              "id": "921207",
+              "nama": "Catubouw"
+          },
+          {
+              "id": "921208",
+              "nama": "Testega"
+          },
+          {
+              "id": "921209",
+              "nama": "Minyambaouw"
+          },
+          {
+              "id": "921210",
+              "nama": "Hingk"
+          }
+      ]
+  },
+  {
+      "id": "1272",
+      "kecamatan": [
+          {
+              "id": "127201",
+              "nama": "Siantar Timur"
+          },
+          {
+              "id": "127202",
+              "nama": "Siantar Barat"
+          },
+          {
+              "id": "127203",
+              "nama": "Siantar Utara"
+          },
+          {
+              "id": "127204",
+              "nama": "Siantar Selatan"
+          },
+          {
+              "id": "127205",
+              "nama": "Siantar Marihat"
+          },
+          {
+              "id": "127206",
+              "nama": "Siantar Martoba"
+          },
+          {
+              "id": "127207",
+              "nama": "Siantar Sitalasari"
+          },
+          {
+              "id": "127208",
+              "nama": "Siantar Marimbun"
+          }
+      ]
+  },
+  {
+      "id": "6108",
+      "kecamatan": [
+          {
+              "id": "610801",
+              "nama": "Ngabang"
+          },
+          {
+              "id": "610802",
+              "nama": "Mempawah Hulu"
+          },
+          {
+              "id": "610803",
+              "nama": "Menjalin"
+          },
+          {
+              "id": "610804",
+              "nama": "Mandor"
+          },
+          {
+              "id": "610805",
+              "nama": "Air Besar"
+          },
+          {
+              "id": "610806",
+              "nama": "Menyuke"
+          },
+          {
+              "id": "610807",
+              "nama": "Sengah Temila"
+          },
+          {
+              "id": "610808",
+              "nama": "Meranti"
+          },
+          {
+              "id": "610809",
+              "nama": "Kuala Behe"
+          },
+          {
+              "id": "610810",
+              "nama": "Sebangki"
+          },
+          {
+              "id": "610811",
+              "nama": "Jelimpo"
+          },
+          {
+              "id": "610812",
+              "nama": "Banyuke Hulu"
+          },
+          {
+              "id": "610813",
+              "nama": "Sompak"
+          }
+      ]
+  },
+  {
+      "id": "7502",
+      "kecamatan": [
+          {
+              "id": "750201",
+              "nama": "Paguyaman"
+          },
+          {
+              "id": "750202",
+              "nama": "Wonosari"
+          },
+          {
+              "id": "750203",
+              "nama": "Dulupi"
+          },
+          {
+              "id": "750204",
+              "nama": "Tilamuta"
+          },
+          {
+              "id": "750205",
+              "nama": "Mananggu"
+          },
+          {
+              "id": "750206",
+              "nama": "Botumoita"
+          },
+          {
+              "id": "750207",
+              "nama": "Paguyaman Pantai"
+          }
+      ]
+  },
+  {
+      "id": "3404",
+      "kecamatan": [
+          {
+              "id": "340401",
+              "nama": "Gamping"
+          },
+          {
+              "id": "340402",
+              "nama": "Godean"
+          },
+          {
+              "id": "340403",
+              "nama": "Moyudan"
+          },
+          {
+              "id": "340404",
+              "nama": "Minggir"
+          },
+          {
+              "id": "340405",
+              "nama": "Seyegan"
+          },
+          {
+              "id": "340406",
+              "nama": "Mlati"
+          },
+          {
+              "id": "340407",
+              "nama": "Depok"
+          },
+          {
+              "id": "340408",
+              "nama": "Berbah"
+          },
+          {
+              "id": "340409",
+              "nama": "Prambanan"
+          },
+          {
+              "id": "340410",
+              "nama": "Kalasan"
+          },
+          {
+              "id": "340411",
+              "nama": "Ngemplak"
+          },
+          {
+              "id": "340412",
+              "nama": "Ngaglik"
+          },
+          {
+              "id": "340413",
+              "nama": "Sleman"
+          },
+          {
+              "id": "340414",
+              "nama": "Tempel"
+          },
+          {
+              "id": "340415",
+              "nama": "Turi"
+          },
+          {
+              "id": "340416",
+              "nama": "Pakem"
+          },
+          {
+              "id": "340417",
+              "nama": "Cangkringan"
+          }
+      ]
+  },
+  {
+      "id": "1205",
+      "kecamatan": [
+          {
+              "id": "120501",
+              "nama": "Bahorok"
+          },
+          {
+              "id": "120502",
+              "nama": "Salapian"
+          },
+          {
+              "id": "120503",
+              "nama": "Kuala"
+          },
+          {
+              "id": "120504",
+              "nama": "Sei Bingei"
+          },
+          {
+              "id": "120505",
+              "nama": "Binjai"
+          },
+          {
+              "id": "120506",
+              "nama": "Selesai"
+          },
+          {
+              "id": "120507",
+              "nama": "Stabat"
+          },
+          {
+              "id": "120508",
+              "nama": "Wampu"
+          },
+          {
+              "id": "120509",
+              "nama": "Secanggang"
+          },
+          {
+              "id": "120510",
+              "nama": "Hinai"
+          },
+          {
+              "id": "120511",
+              "nama": "Tanjung Pura"
+          },
+          {
+              "id": "120512",
+              "nama": "Padang Tualang"
+          },
+          {
+              "id": "120513",
+              "nama": "Gebang"
+          },
+          {
+              "id": "120514",
+              "nama": "Babalan"
+          },
+          {
+              "id": "120515",
+              "nama": "Pangkalan Susu"
+          },
+          {
+              "id": "120516",
+              "nama": "Besitang"
+          },
+          {
+              "id": "120517",
+              "nama": "Sei Lepan"
+          },
+          {
+              "id": "120518",
+              "nama": "Berandan Barat"
+          },
+          {
+              "id": "120519",
+              "nama": "Batang Serangan"
+          },
+          {
+              "id": "120520",
+              "nama": "Sawit Seberang"
+          },
+          {
+              "id": "120521",
+              "nama": "Sirapit"
+          },
+          {
+              "id": "120522",
+              "nama": "Kutambaru"
+          },
+          {
+              "id": "120523",
+              "nama": "Pematang Jaya"
+          }
+      ]
+  },
+  {
+      "id": "5303",
+      "kecamatan": [
+          {
+              "id": "530301",
+              "nama": "Miomafo Timur"
+          },
+          {
+              "id": "530302",
+              "nama": "Miomafo Barat"
+          },
+          {
+              "id": "530303",
+              "nama": "Biboki Selatan"
+          },
+          {
+              "id": "530304",
+              "nama": "Noemuti"
+          },
+          {
+              "id": "530305",
+              "nama": "Kota Kefamenanu"
+          },
+          {
+              "id": "530306",
+              "nama": "Biboki Utara"
+          },
+          {
+              "id": "530307",
+              "nama": "Biboki Anleu"
+          },
+          {
+              "id": "530308",
+              "nama": "Insana"
+          },
+          {
+              "id": "530309",
+              "nama": "Insana Utara"
+          },
+          {
+              "id": "530310",
+              "nama": "Noemuti Timur"
+          },
+          {
+              "id": "530311",
+              "nama": "Miomaffo Tengah"
+          },
+          {
+              "id": "530312",
+              "nama": "Musi"
+          },
+          {
+              "id": "530313",
+              "nama": "Mutis"
+          },
+          {
+              "id": "530314",
+              "nama": "Bikomi Selatan"
+          },
+          {
+              "id": "530315",
+              "nama": "Bikomi Tengah"
+          },
+          {
+              "id": "530316",
+              "nama": "Bikomi Nilulat"
+          },
+          {
+              "id": "530317",
+              "nama": "Bikomi Utara"
+          },
+          {
+              "id": "530318",
+              "nama": "Naibenu"
+          },
+          {
+              "id": "530319",
+              "nama": "Insana Fafinesu"
+          },
+          {
+              "id": "530320",
+              "nama": "Insana Barat"
+          },
+          {
+              "id": "530321",
+              "nama": "Insana Tengah"
+          },
+          {
+              "id": "530322",
+              "nama": "Biboki Tan Pah"
+          },
+          {
+              "id": "530323",
+              "nama": "Biboki Moenleu"
+          },
+          {
+              "id": "530324",
+              "nama": "Biboki Feotleu"
+          }
+      ]
+  },
+  {
+      "id": "9418",
+      "kecamatan": [
+          {
+              "id": "9418010",
+              "nama": "KANGGIME"
+          },
+          {
+              "id": "9418011",
+              "nama": "WONIKI"
+          },
+          {
+              "id": "9418012",
+              "nama": "NABUNAGE"
+          },
+          {
+              "id": "9418013",
+              "nama": "GILUBANDU"
+          },
+          {
+              "id": "9418014",
+              "nama": "WAKUO"
+          },
+          {
+              "id": "9418015",
+              "nama": "AWEKU"
+          },
+          {
+              "id": "9418016",
+              "nama": "BOGONUK"
+          },
+          {
+              "id": "9418020",
+              "nama": "KARUBAGA"
+          },
+          {
+              "id": "9418021",
+              "nama": "GOYAGE"
+          },
+          {
+              "id": "9418022",
+              "nama": "WUNIN"
+          },
+          {
+              "id": "9418023",
+              "nama": "KONDAGA"
+          },
+          {
+              "id": "9418024",
+              "nama": "NELAWI"
+          },
+          {
+              "id": "9418025",
+              "nama": "KUARI"
+          },
+          {
+              "id": "9418026",
+              "nama": "LIANOGOMA"
+          },
+          {
+              "id": "9418027",
+              "nama": "BIUK"
+          },
+          {
+              "id": "9418030",
+              "nama": "BOKONDINI"
+          },
+          {
+              "id": "9418031",
+              "nama": "BOKONERI"
+          },
+          {
+              "id": "9418032",
+              "nama": "BEWANI"
+          },
+          {
+              "id": "9418040",
+              "nama": "KEMBU"
+          },
+          {
+              "id": "9418041",
+              "nama": "WINA"
+          },
+          {
+              "id": "9418042",
+              "nama": "UMAGI"
+          },
+          {
+              "id": "9418043",
+              "nama": "PANAGA"
+          },
+          {
+              "id": "9418044",
+              "nama": "POGANERI"
+          },
+          {
+              "id": "9418045",
+              "nama": "KAMBONERI"
+          },
+          {
+              "id": "9418046",
+              "nama": "AIR GARAM"
+          },
+          {
+              "id": "9418047",
+              "nama": "DOW"
+          },
+          {
+              "id": "9418048",
+              "nama": "WARI / TAIYEVE"
+          },
+          {
+              "id": "9418049",
+              "nama": "EGIAM"
+          },
+          {
+              "id": "9418051",
+              "nama": "NUNGGAWI"
+          },
+          {
+              "id": "9418060",
+              "nama": "KUBU"
+          },
+          {
+              "id": "9418061",
+              "nama": "ANAWI"
+          },
+          {
+              "id": "9418062",
+              "nama": "WUGI"
+          },
+          {
+              "id": "9418070",
+              "nama": "GEYA"
+          },
+          {
+              "id": "9418071",
+              "nama": "WENAM"
+          },
+          {
+              "id": "9418080",
+              "nama": "NUMBA"
+          },
+          {
+              "id": "9418081",
+              "nama": "KAI"
+          },
+          {
+              "id": "9418090",
+              "nama": "DUNDU"
+          },
+          {
+              "id": "9418100",
+              "nama": "GUNDAGI"
+          },
+          {
+              "id": "9418110",
+              "nama": "TIMORI"
+          },
+          {
+              "id": "9418121",
+              "nama": "YUNERI"
+          },
+          {
+              "id": "9418125",
+              "nama": "TAGIME"
+          },
+          {
+              "id": "9418126",
+              "nama": "DANIME"
+          },
+          {
+              "id": "9418127",
+              "nama": "YUKO"
+          },
+          {
+              "id": "9418541",
+              "nama": "TELENGGEME"
+          },
+          {
+              "id": "9418542",
+              "nama": "GIKA"
+          },
+          {
+              "id": "9418543",
+              "nama": "TAGINERI"
+          }
+      ]
+  },
+  {
+      "id": "1213",
+      "kecamatan": [
+          {
+              "id": "121301",
+              "nama": "Panyabungan"
+          },
+          {
+              "id": "121302",
+              "nama": "Panyabungan Utara"
+          },
+          {
+              "id": "121303",
+              "nama": "Panyabungan Timur"
+          },
+          {
+              "id": "121304",
+              "nama": "Panyabungan Selatan"
+          },
+          {
+              "id": "121305",
+              "nama": "Panyabungan Barat"
+          },
+          {
+              "id": "121306",
+              "nama": "Siabu"
+          },
+          {
+              "id": "121307",
+              "nama": "Bukit Malintang"
+          },
+          {
+              "id": "121308",
+              "nama": "Kotanopan"
+          },
+          {
+              "id": "121309",
+              "nama": "Lembah Sorik Marapi"
+          },
+          {
+              "id": "121310",
+              "nama": "Tambangan"
+          },
+          {
+              "id": "121311",
+              "nama": "Ulu Pungkut"
+          },
+          {
+              "id": "121312",
+              "nama": "Muara Sipongi"
+          },
+          {
+              "id": "121313",
+              "nama": "Batang Natal"
+          },
+          {
+              "id": "121314",
+              "nama": "Lingga Bayu"
+          },
+          {
+              "id": "121315",
+              "nama": "Batahan"
+          },
+          {
+              "id": "121316",
+              "nama": "Natal"
+          },
+          {
+              "id": "121317",
+              "nama": "Muara Batang Gadis"
+          },
+          {
+              "id": "121318",
+              "nama": "Ranto Baek"
+          },
+          {
+              "id": "121319",
+              "nama": "Huta Bargot"
+          },
+          {
+              "id": "121320",
+              "nama": "Puncak Sorik Marapi"
+          },
+          {
+              "id": "121321",
+              "nama": "Pakantan"
+          },
+          {
+              "id": "121322",
+              "nama": "Sinunukan"
+          },
+          {
+              "id": "121323",
+              "nama": "Naga Juang"
+          }
+      ]
+  },
+  {
+      "id": "6305",
+      "kecamatan": [
+          {
+              "id": "630501",
+              "nama": "Binuang"
+          },
+          {
+              "id": "630502",
+              "nama": "Tapin Selatan"
+          },
+          {
+              "id": "630503",
+              "nama": "Tapin Tengah"
+          },
+          {
+              "id": "630504",
+              "nama": "Tapin Utara"
+          },
+          {
+              "id": "630505",
+              "nama": "Candi Laras Selatan"
+          },
+          {
+              "id": "630506",
+              "nama": "Candi Laras Utara"
+          },
+          {
+              "id": "630507",
+              "nama": "Bakarangan"
+          },
+          {
+              "id": "630508",
+              "nama": "Piani"
+          },
+          {
+              "id": "630509",
+              "nama": "Bungur"
+          },
+          {
+              "id": "630510",
+              "nama": "Lokpaikat"
+          },
+          {
+              "id": "630511",
+              "nama": "Salam Babaris"
+          },
+          {
+              "id": "630512",
+              "nama": "Hatungun"
+          }
+      ]
+  },
+  {
+      "id": "1301",
+      "kecamatan": [
+          {
+              "id": "130101",
+              "nama": "Pancung Soal"
+          },
+          {
+              "id": "130102",
+              "nama": "Ranah Pesisir"
+          },
+          {
+              "id": "130103",
+              "nama": "Lengayang"
+          },
+          {
+              "id": "130104",
+              "nama": "Batang Kapas"
+          },
+          {
+              "id": "130105",
+              "nama": "IV Jurai"
+          },
+          {
+              "id": "130106",
+              "nama": "Bayang"
+          },
+          {
+              "id": "130107",
+              "nama": "Koto XI Tarusan"
+          },
+          {
+              "id": "130108",
+              "nama": "Sutera"
+          },
+          {
+              "id": "130109",
+              "nama": "Linggo Sari Baganti"
+          },
+          {
+              "id": "130110",
+              "nama": "Lunang"
+          },
+          {
+              "id": "130111",
+              "nama": "Basa Ampek Balai Tapan"
+          },
+          {
+              "id": "130112",
+              "nama": "IV Nagari Bayang Utara"
+          },
+          {
+              "id": "130113",
+              "nama": "Airpura"
+          },
+          {
+              "id": "130114",
+              "nama": "Ranah Ampek Hulu Tapan"
+          },
+          {
+              "id": "130115",
+              "nama": "Silaut"
+          }
+      ]
+  },
+  {
+      "id": "3516",
+      "kecamatan": [
+          {
+              "id": "351601",
+              "nama": "Jatirejo"
+          },
+          {
+              "id": "351602",
+              "nama": "Gondang"
+          },
+          {
+              "id": "351603",
+              "nama": "Pacet"
+          },
+          {
+              "id": "351604",
+              "nama": "Trawas"
+          },
+          {
+              "id": "351605",
+              "nama": "Ngoro"
+          },
+          {
+              "id": "351606",
+              "nama": "Pungging"
+          },
+          {
+              "id": "351607",
+              "nama": "Kutorejo"
+          },
+          {
+              "id": "351608",
+              "nama": "Mojosari"
+          },
+          {
+              "id": "351609",
+              "nama": "Dlanggu"
+          },
+          {
+              "id": "351610",
+              "nama": "Bangsal"
+          },
+          {
+              "id": "351611",
+              "nama": "Puri"
+          },
+          {
+              "id": "351612",
+              "nama": "Trowulan"
+          },
+          {
+              "id": "351613",
+              "nama": "Sooko"
+          },
+          {
+              "id": "351614",
+              "nama": "Gedeg"
+          },
+          {
+              "id": "351615",
+              "nama": "Kemlagi"
+          },
+          {
+              "id": "351616",
+              "nama": "Jetis"
+          },
+          {
+              "id": "351617",
+              "nama": "Dawarblandong"
+          },
+          {
+              "id": "351618",
+              "nama": "Mojoanyar"
+          }
+      ]
+  },
+  {
+      "id": "9434",
+      "kecamatan": [
+          {
+              "id": "9434010",
+              "nama": "SUKIKAI SELATAN"
+          },
+          {
+              "id": "9434020",
+              "nama": "PIYAIYE"
+          },
+          {
+              "id": "9434030",
+              "nama": "MAPIA BARAT"
+          },
+          {
+              "id": "9434040",
+              "nama": "MAPIA TENGAH"
+          },
+          {
+              "id": "9434050",
+              "nama": "MAPIA"
+          },
+          {
+              "id": "9434060",
+              "nama": "DOGIYAI"
+          },
+          {
+              "id": "9434070",
+              "nama": "KAMU SELATAN"
+          },
+          {
+              "id": "9434080",
+              "nama": "KAMU"
+          },
+          {
+              "id": "9434090",
+              "nama": "KAMU TIMUR"
+          },
+          {
+              "id": "9434100",
+              "nama": "KAMU UTARA"
+          }
+      ]
+  },
+  {
+      "id": "5207",
+      "kecamatan": [
+          {
+              "id": "520701",
+              "nama": "Jereweh"
+          },
+          {
+              "id": "520702",
+              "nama": "Taliwang"
+          },
+          {
+              "id": "520703",
+              "nama": "Seteluk"
+          },
+          {
+              "id": "520704",
+              "nama": "Sekongkang"
+          },
+          {
+              "id": "520705",
+              "nama": "Brang Rea"
+          },
+          {
+              "id": "520706",
+              "nama": "Poto Tano"
+          },
+          {
+              "id": "520707",
+              "nama": "Brang Ene"
+          },
+          {
+              "id": "520708",
+              "nama": "Maluk"
+          }
+      ]
+  },
+  {
+      "id": "5315",
+      "kecamatan": [
+          {
+              "id": "531501",
+              "nama": "Macang Pacar"
+          },
+          {
+              "id": "531502",
+              "nama": "Kuwus"
+          },
+          {
+              "id": "531503",
+              "nama": "Lembor"
+          },
+          {
+              "id": "531504",
+              "nama": "Sano Nggoang"
+          },
+          {
+              "id": "531505",
+              "nama": "Komodo"
+          },
+          {
+              "id": "531506",
+              "nama": "Boleng"
+          },
+          {
+              "id": "531507",
+              "nama": "Welak"
+          },
+          {
+              "id": "531508",
+              "nama": "Ndoso"
+          },
+          {
+              "id": "531509",
+              "nama": "Lembor Selatan"
+          },
+          {
+              "id": "531510",
+              "nama": "Mbeliling"
+          },
+          {
+              "id": "531511",
+              "nama": "Pacar"
+          },
+          {
+              "id": "531512",
+              "nama": "Kuwus Barat"
+          }
+      ]
+  },
+  {
+      "id": "7410",
+      "kecamatan": [
+          {
+              "id": "741001",
+              "nama": "Kulisusu"
+          },
+          {
+              "id": "741002",
+              "nama": "Kambowa"
+          },
+          {
+              "id": "741003",
+              "nama": "Bonegunu"
+          },
+          {
+              "id": "741004",
+              "nama": "Kulisusu Barat"
+          },
+          {
+              "id": "741005",
+              "nama": "Kulisusu Utara"
+          },
+          {
+              "id": "741006",
+              "nama": "Wakorumba Utara"
+          }
+      ]
+  },
+  {
+      "id": "7406",
+      "kecamatan": [
+          {
+              "id": "740601",
+              "nama": "Poleang"
+          },
+          {
+              "id": "740602",
+              "nama": "Poleang Timur"
+          },
+          {
+              "id": "740603",
+              "nama": "Rarowatu"
+          },
+          {
+              "id": "740604",
+              "nama": "Rumbia"
+          },
+          {
+              "id": "740605",
+              "nama": "Kabaena"
+          },
+          {
+              "id": "740606",
+              "nama": "Kabaena Timur"
+          },
+          {
+              "id": "740607",
+              "nama": "Poleang Barat"
+          },
+          {
+              "id": "740608",
+              "nama": "Mata Oleo"
+          },
+          {
+              "id": "740609",
+              "nama": "Rarowatu Utara"
+          },
+          {
+              "id": "740610",
+              "nama": "Poleang Utara"
+          },
+          {
+              "id": "740611",
+              "nama": "Poleang Selatan"
+          },
+          {
+              "id": "740612",
+              "nama": "Poleang Tenggara"
+          },
+          {
+              "id": "740613",
+              "nama": "Kabaena Selatan"
+          },
+          {
+              "id": "740614",
+              "nama": "Kabaena Barat"
+          },
+          {
+              "id": "740615",
+              "nama": "Kabaena Utara"
+          },
+          {
+              "id": "740616",
+              "nama": "Kabaena Tengah"
+          },
+          {
+              "id": "740617",
+              "nama": "Kep. Masaloka Raya"
+          },
+          {
+              "id": "740618",
+              "nama": "Rumbia Tengah"
+          },
+          {
+              "id": "740619",
+              "nama": "Poleang Tengah"
+          },
+          {
+              "id": "740620",
+              "nama": "Tontonunu"
+          },
+          {
+              "id": "740621",
+              "nama": "Lantari Jaya"
+          },
+          {
+              "id": "740622",
+              "nama": "Mata Usu"
+          }
+      ]
+  },
+  {
+      "id": "3279",
+      "kecamatan": [
+          {
+              "id": "327901",
+              "nama": "Banjar"
+          },
+          {
+              "id": "327902",
+              "nama": "Pataruman"
+          },
+          {
+              "id": "327903",
+              "nama": "Purwaharja"
+          },
+          {
+              "id": "327904",
+              "nama": "Langensari"
+          }
+      ]
+  },
+  {
+      "id": "7105",
+      "kecamatan": [
+          {
+              "id": "710501",
+              "nama": "Modoinding"
+          },
+          {
+              "id": "710502",
+              "nama": "Tompaso Baru"
+          },
+          {
+              "id": "710503",
+              "nama": "Ranoyapo"
+          },
+          {
+              "id": "710507",
+              "nama": "Motoling"
+          },
+          {
+              "id": "710508",
+              "nama": "Sinonsayang"
+          },
+          {
+              "id": "710509",
+              "nama": "Tenga"
+          },
+          {
+              "id": "710510",
+              "nama": "Amurang"
+          },
+          {
+              "id": "710512",
+              "nama": "Tumpaan"
+          },
+          {
+              "id": "710513",
+              "nama": "Tareran"
+          },
+          {
+              "id": "710515",
+              "nama": "Kumelembuai"
+          },
+          {
+              "id": "710516",
+              "nama": "Maesaan"
+          },
+          {
+              "id": "710517",
+              "nama": "Amurang Barat"
+          },
+          {
+              "id": "710518",
+              "nama": "Amurang Timur"
+          },
+          {
+              "id": "710519",
+              "nama": "Tatapaan"
+          },
+          {
+              "id": "710521",
+              "nama": "Motoling Barat"
+          },
+          {
+              "id": "710522",
+              "nama": "Motoling Timur"
+          },
+          {
+              "id": "710523",
+              "nama": "Suluun Tareran"
+          }
+      ]
+  },
+  {
+      "id": "1706",
+      "kecamatan": [
+          {
+              "id": "170601",
+              "nama": "Lubuk Pinang"
+          },
+          {
+              "id": "170602",
+              "nama": "Kota Mukomuko"
+          },
+          {
+              "id": "170603",
+              "nama": "Teras Terunjam"
+          },
+          {
+              "id": "170604",
+              "nama": "Pondok Suguh"
+          },
+          {
+              "id": "170605",
+              "nama": "Ipuh"
+          },
+          {
+              "id": "170606",
+              "nama": "Malin Deman"
+          },
+          {
+              "id": "170607",
+              "nama": "Air Rami"
+          },
+          {
+              "id": "170608",
+              "nama": "Teramang Jaya"
+          },
+          {
+              "id": "170609",
+              "nama": "Selagan Raya"
+          },
+          {
+              "id": "170610",
+              "nama": "Penarik"
+          },
+          {
+              "id": "170611",
+              "nama": "XIV Koto"
+          },
+          {
+              "id": "170612",
+              "nama": "V Koto"
+          },
+          {
+              "id": "170613",
+              "nama": "Air Majunto"
+          },
+          {
+              "id": "170614",
+              "nama": "Air Dikit"
+          },
+          {
+              "id": "170615",
+              "nama": "Sungai Rumbai"
+          }
+      ]
+  },
+  {
+      "id": "6201",
+      "kecamatan": [
+          {
+              "id": "620101",
+              "nama": "Kumai"
+          },
+          {
+              "id": "620102",
+              "nama": "Arut Selatan"
+          },
+          {
+              "id": "620103",
+              "nama": "Kotawaringin Lama"
+          },
+          {
+              "id": "620104",
+              "nama": "Arut Utara"
+          },
+          {
+              "id": "620105",
+              "nama": "Pangkalan Lada"
+          },
+          {
+              "id": "620106",
+              "nama": "Pangkalan Banteng"
+          }
+      ]
+  },
+  {
+      "id": "5102",
+      "kecamatan": [
+          {
+              "id": "510201",
+              "nama": "Selemadeg"
+          },
+          {
+              "id": "510202",
+              "nama": "Salamadeg Timur"
+          },
+          {
+              "id": "510203",
+              "nama": "Salemadeg Barat"
+          },
+          {
+              "id": "510204",
+              "nama": "Kerambitan"
+          },
+          {
+              "id": "510205",
+              "nama": "Tabanan"
+          },
+          {
+              "id": "510206",
+              "nama": "Kediri"
+          },
+          {
+              "id": "510207",
+              "nama": "Marga"
+          },
+          {
+              "id": "510208",
+              "nama": "Penebel"
+          },
+          {
+              "id": "510209",
+              "nama": "Baturiti"
+          },
+          {
+              "id": "510210",
+              "nama": "Pupuan"
+          }
+      ]
+  },
+  {
+      "id": "6407",
+      "kecamatan": [
+          {
+              "id": "640705",
+              "nama": "Long Iram"
+          },
+          {
+              "id": "640706",
+              "nama": "Melak"
+          },
+          {
+              "id": "640707",
+              "nama": "Barong Tongkok"
+          },
+          {
+              "id": "640708",
+              "nama": "Damai"
+          },
+          {
+              "id": "640709",
+              "nama": "Muara Lawa"
+          },
+          {
+              "id": "640710",
+              "nama": "Muara Pahu"
+          },
+          {
+              "id": "640711",
+              "nama": "Jempang"
+          },
+          {
+              "id": "640712",
+              "nama": "Bongan"
+          },
+          {
+              "id": "640713",
+              "nama": "Penyinggahan"
+          },
+          {
+              "id": "640714",
+              "nama": "Bentian Besar"
+          },
+          {
+              "id": "640715",
+              "nama": "Linggang Bigung"
+          },
+          {
+              "id": "640716",
+              "nama": "Nyuatan"
+          },
+          {
+              "id": "640717",
+              "nama": "Siluq Ngurai"
+          },
+          {
+              "id": "640718",
+              "nama": "Mook Manaar Bulatn"
+          },
+          {
+              "id": "640719",
+              "nama": "Tering"
+          },
+          {
+              "id": "640720",
+              "nama": "Sekolaq Darat"
+          }
+      ]
+  },
+  {
+      "id": "9121",
+      "kecamatan": [
+          {
+              "id": "912101",
+              "nama": "Kobagma"
+          },
+          {
+              "id": "912102",
+              "nama": "Kelila"
+          },
+          {
+              "id": "912103",
+              "nama": "Eragayam"
+          },
+          {
+              "id": "912104",
+              "nama": "Megambilis"
+          },
+          {
+              "id": "912105",
+              "nama": "Ilugwa"
+          }
+      ]
+  },
+  {
+      "id": "9208",
+      "kecamatan": [
+          {
+              "id": "920801",
+              "nama": "Kaimana"
+          },
+          {
+              "id": "920802",
+              "nama": "Buruway"
+          },
+          {
+              "id": "920803",
+              "nama": "Teluk Arguni Atas"
+          },
+          {
+              "id": "920804",
+              "nama": "Teluk Etna"
+          },
+          {
+              "id": "920805",
+              "nama": "Kambrau"
+          },
+          {
+              "id": "920806",
+              "nama": "Teluk Arguni Bawah"
+          },
+          {
+              "id": "920807",
+              "nama": "Yamor"
+          }
+      ]
+  },
+  {
+      "id": "3310",
+      "kecamatan": [
+          {
+              "id": "331001",
+              "nama": "Prambanan"
+          },
+          {
+              "id": "331002",
+              "nama": "Gantiwarno"
+          },
+          {
+              "id": "331003",
+              "nama": "Wedi"
+          },
+          {
+              "id": "331004",
+              "nama": "Bayat"
+          },
+          {
+              "id": "331005",
+              "nama": "Cawas"
+          },
+          {
+              "id": "331006",
+              "nama": "Trucuk"
+          },
+          {
+              "id": "331007",
+              "nama": "Kebonarum"
+          },
+          {
+              "id": "331008",
+              "nama": "Jogonalan"
+          },
+          {
+              "id": "331009",
+              "nama": "Manisrenggo"
+          },
+          {
+              "id": "331010",
+              "nama": "Karangnongko"
+          },
+          {
+              "id": "331011",
+              "nama": "Ceper"
+          },
+          {
+              "id": "331012",
+              "nama": "Pedan"
+          },
+          {
+              "id": "331013",
+              "nama": "Karangdowo"
+          },
+          {
+              "id": "331014",
+              "nama": "Juwiring"
+          },
+          {
+              "id": "331015",
+              "nama": "Wonosari"
+          },
+          {
+              "id": "331016",
+              "nama": "Delanggu"
+          },
+          {
+              "id": "331017",
+              "nama": "Polanharjo"
+          },
+          {
+              "id": "331018",
+              "nama": "Karanganom"
+          },
+          {
+              "id": "331019",
+              "nama": "Tulung"
+          },
+          {
+              "id": "331020",
+              "nama": "Jatinom"
+          },
+          {
+              "id": "331021",
+              "nama": "Kemalang"
+          },
+          {
+              "id": "331022",
+              "nama": "Ngawen"
+          },
+          {
+              "id": "331023",
+              "nama": "Kalikotes"
+          },
+          {
+              "id": "331024",
+              "nama": "Klaten Utara"
+          },
+          {
+              "id": "331025",
+              "nama": "Klaten Tengah"
+          },
+          {
+              "id": "331026",
+              "nama": "Klaten Selatan"
+          }
+      ]
+  },
+  {
+      "id": "6112",
+      "kecamatan": [
+          {
+              "id": "611201",
+              "nama": "Sungai Raya"
+          },
+          {
+              "id": "611202",
+              "nama": "Kuala Mandor B"
+          },
+          {
+              "id": "611203",
+              "nama": "Sungai Ambawang"
+          },
+          {
+              "id": "611204",
+              "nama": "Terentang"
+          },
+          {
+              "id": "611205",
+              "nama": "Batu Ampar"
+          },
+          {
+              "id": "611206",
+              "nama": "Kubu"
+          },
+          {
+              "id": "611207",
+              "nama": "Rasau Jaya"
+          },
+          {
+              "id": "611208",
+              "nama": "Teluk Pakedai"
+          },
+          {
+              "id": "611209",
+              "nama": "Sungai Kakap"
+          }
+      ]
+  },
+  {
+      "id": "8272",
+      "kecamatan": [
+          {
+              "id": "827201",
+              "nama": "Tidore"
+          },
+          {
+              "id": "827202",
+              "nama": "Oba Utara"
+          },
+          {
+              "id": "827203",
+              "nama": "Oba"
+          },
+          {
+              "id": "827204",
+              "nama": "Tidore Selatan"
+          },
+          {
+              "id": "827205",
+              "nama": "Tidore Utara"
+          },
+          {
+              "id": "827206",
+              "nama": "Oba Tengah"
+          },
+          {
+              "id": "827207",
+              "nama": "Oba Selatan"
+          },
+          {
+              "id": "827208",
+              "nama": "Tidore Timur"
+          }
+      ]
+  },
+  {
+      "id": "1403",
+      "kecamatan": [
+          {
+              "id": "140301",
+              "nama": "Bengkalis"
+          },
+          {
+              "id": "140302",
+              "nama": "Bantan"
+          },
+          {
+              "id": "140303",
+              "nama": "Bukit Batu"
+          },
+          {
+              "id": "140309",
+              "nama": "Mandau"
+          },
+          {
+              "id": "140310",
+              "nama": "Rupat"
+          },
+          {
+              "id": "140311",
+              "nama": "Rupat Utara"
+          },
+          {
+              "id": "140312",
+              "nama": "Siak Kecil"
+          },
+          {
+              "id": "140313",
+              "nama": "Pinggir"
+          },
+          {
+              "id": "140314",
+              "nama": "Bandar Laksamana"
+          },
+          {
+              "id": "140315",
+              "nama": "Talang Muandau"
+          },
+          {
+              "id": "140316",
+              "nama": "Bathin Solapan"
+          }
+      ]
+  },
+  {
+      "id": "1116",
+      "kecamatan": [
+          {
+              "id": "111601",
+              "nama": "Manyak Payed"
+          },
+          {
+              "id": "111602",
+              "nama": "Bendahara"
+          },
+          {
+              "id": "111603",
+              "nama": "Karang Baru"
+          },
+          {
+              "id": "111604",
+              "nama": "Seruway"
+          },
+          {
+              "id": "111605",
+              "nama": "Kota Kualasinpang"
+          },
+          {
+              "id": "111606",
+              "nama": "Kejuruan Muda"
+          },
+          {
+              "id": "111607",
+              "nama": "Tamiang Hulu"
+          },
+          {
+              "id": "111608",
+              "nama": "Rantau"
+          },
+          {
+              "id": "111609",
+              "nama": "Banda Mulia"
+          },
+          {
+              "id": "111610",
+              "nama": "Bandar Pusaka"
+          },
+          {
+              "id": "111611",
+              "nama": "Tenggulun"
+          },
+          {
+              "id": "111612",
+              "nama": "Sekerak"
+          }
+      ]
+  },
+  {
+      "id": "3202",
+      "kecamatan": [
+          {
+              "id": "320201",
+              "nama": "Palabuhanratu"
+          },
+          {
+              "id": "320202",
+              "nama": "Simpenan"
+          },
+          {
+              "id": "320203",
+              "nama": "Cikakak"
+          },
+          {
+              "id": "320204",
+              "nama": "Bantargadung"
+          },
+          {
+              "id": "320205",
+              "nama": "Cisolok"
+          },
+          {
+              "id": "320206",
+              "nama": "Cikidang"
+          },
+          {
+              "id": "320207",
+              "nama": "Lengkong"
+          },
+          {
+              "id": "320208",
+              "nama": "Jampangtengah"
+          },
+          {
+              "id": "320209",
+              "nama": "Warungkiara"
+          },
+          {
+              "id": "320210",
+              "nama": "Cikembar"
+          },
+          {
+              "id": "320211",
+              "nama": "Cibadak"
+          },
+          {
+              "id": "320212",
+              "nama": "Nagrak"
+          },
+          {
+              "id": "320213",
+              "nama": "Parungkuda"
+          },
+          {
+              "id": "320214",
+              "nama": "Bojonggenteng"
+          },
+          {
+              "id": "320215",
+              "nama": "Parakansalak"
+          },
+          {
+              "id": "320216",
+              "nama": "Cicurug"
+          },
+          {
+              "id": "320217",
+              "nama": "Cidahu"
+          },
+          {
+              "id": "320218",
+              "nama": "Kalapanunggal"
+          },
+          {
+              "id": "320219",
+              "nama": "Kabandungan"
+          },
+          {
+              "id": "320220",
+              "nama": "Waluran"
+          },
+          {
+              "id": "320221",
+              "nama": "Jampangkulon"
+          },
+          {
+              "id": "320222",
+              "nama": "Ciemas"
+          },
+          {
+              "id": "320223",
+              "nama": "Kalibunder"
+          },
+          {
+              "id": "320224",
+              "nama": "Surade"
+          },
+          {
+              "id": "320225",
+              "nama": "Cibitung"
+          },
+          {
+              "id": "320226",
+              "nama": "Ciracap"
+          },
+          {
+              "id": "320227",
+              "nama": "Gunungguruh"
+          },
+          {
+              "id": "320228",
+              "nama": "Cicantayan"
+          },
+          {
+              "id": "320229",
+              "nama": "Cisaat"
+          },
+          {
+              "id": "320230",
+              "nama": "Kadudampit"
+          },
+          {
+              "id": "320231",
+              "nama": "Caringin"
+          },
+          {
+              "id": "320232",
+              "nama": "Sukabumi"
+          },
+          {
+              "id": "320233",
+              "nama": "Sukaraja"
+          },
+          {
+              "id": "320234",
+              "nama": "Kebonpedes"
+          },
+          {
+              "id": "320235",
+              "nama": "Cireunghas"
+          },
+          {
+              "id": "320236",
+              "nama": "Sukalarang"
+          },
+          {
+              "id": "320237",
+              "nama": "Pabuaran"
+          },
+          {
+              "id": "320238",
+              "nama": "Purabaya"
+          },
+          {
+              "id": "320239",
+              "nama": "Nyalindung"
+          },
+          {
+              "id": "320240",
+              "nama": "Gegerbitung"
+          },
+          {
+              "id": "320241",
+              "nama": "Sagaranten"
+          },
+          {
+              "id": "320242",
+              "nama": "Curugkembar"
+          },
+          {
+              "id": "320243",
+              "nama": "Cidolog"
+          },
+          {
+              "id": "320244",
+              "nama": "Cidadap"
+          },
+          {
+              "id": "320245",
+              "nama": "Tegalbuleud"
+          },
+          {
+              "id": "320246",
+              "nama": "Cimanggu"
+          },
+          {
+              "id": "320247",
+              "nama": "Ciambar"
+          }
+      ]
+  },
+  {
+      "id": "7304",
+      "kecamatan": [
+          {
+              "id": "730401",
+              "nama": "Bangkala"
+          },
+          {
+              "id": "730402",
+              "nama": "Tamalatea"
+          },
+          {
+              "id": "730403",
+              "nama": "Binamu"
+          },
+          {
+              "id": "730404",
+              "nama": "Batang"
+          },
+          {
+              "id": "730405",
+              "nama": "Kelara"
+          },
+          {
+              "id": "730406",
+              "nama": "Bangkala Barat"
+          },
+          {
+              "id": "730407",
+              "nama": "Bontoramba"
+          },
+          {
+              "id": "730408",
+              "nama": "Turatea"
+          },
+          {
+              "id": "730409",
+              "nama": "Arungkeke"
+          },
+          {
+              "id": "730410",
+              "nama": "Rumbia"
+          },
+          {
+              "id": "730411",
+              "nama": "Tarowang"
+          }
+      ]
+  },
+  {
+      "id": "3214",
+      "kecamatan": [
+          {
+              "id": "321401",
+              "nama": "Purwakarta"
+          },
+          {
+              "id": "321402",
+              "nama": "Campaka"
+          },
+          {
+              "id": "321403",
+              "nama": "Jatiluhur"
+          },
+          {
+              "id": "321404",
+              "nama": "Plered"
+          },
+          {
+              "id": "321405",
+              "nama": "Sukatani"
+          },
+          {
+              "id": "321406",
+              "nama": "Darangdan"
+          },
+          {
+              "id": "321407",
+              "nama": "Maniis"
+          },
+          {
+              "id": "321408",
+              "nama": "Tegalwaru"
+          },
+          {
+              "id": "321409",
+              "nama": "Wanayasa"
+          },
+          {
+              "id": "321410",
+              "nama": "Pasawahan"
+          },
+          {
+              "id": "321411",
+              "nama": "Bojong"
+          },
+          {
+              "id": "321412",
+              "nama": "Babakancikao"
+          },
+          {
+              "id": "321413",
+              "nama": "Bungursari"
+          },
+          {
+              "id": "321414",
+              "nama": "Cibatu"
+          },
+          {
+              "id": "321415",
+              "nama": "Sukasari"
+          },
+          {
+              "id": "321416",
+              "nama": "Pondoksalam"
+          },
+          {
+              "id": "321417",
+              "nama": "Kiarapedes"
+          }
+      ]
+  },
+  {
+      "id": "7312",
+      "kecamatan": [
+          {
+              "id": "731201",
+              "nama": "Marioriwawo"
+          },
+          {
+              "id": "731202",
+              "nama": "Liliraja"
+          },
+          {
+              "id": "731203",
+              "nama": "Lilirilau"
+          },
+          {
+              "id": "731204",
+              "nama": "Lalabata"
+          },
+          {
+              "id": "731205",
+              "nama": "Marioriawa"
+          },
+          {
+              "id": "731206",
+              "nama": "Donri Donri"
+          },
+          {
+              "id": "731207",
+              "nama": "Ganra"
+          },
+          {
+              "id": "731208",
+              "nama": "Citta"
+          }
+      ]
+  },
+  {
+      "id": "6503",
+      "kecamatan": [
+          {
+              "id": "650301",
+              "nama": "Sebatik"
+          },
+          {
+              "id": "650302",
+              "nama": "Nunukan"
+          },
+          {
+              "id": "650303",
+              "nama": "Sembakung"
+          },
+          {
+              "id": "650304",
+              "nama": "Lumbis"
+          },
+          {
+              "id": "650305",
+              "nama": "Krayan"
+          },
+          {
+              "id": "650306",
+              "nama": "Sebuku"
+          },
+          {
+              "id": "650307",
+              "nama": "Krayan Selatan"
+          },
+          {
+              "id": "650308",
+              "nama": "Sebatik Barat"
+          },
+          {
+              "id": "650309",
+              "nama": "Nunukan Selatan"
+          },
+          {
+              "id": "650310",
+              "nama": "Sebatik Timur"
+          },
+          {
+              "id": "650311",
+              "nama": "Sebatik Utara"
+          },
+          {
+              "id": "650312",
+              "nama": "Sebatik Tengah"
+          },
+          {
+              "id": "650313",
+              "nama": "Sei Menggaris"
+          },
+          {
+              "id": "650314",
+              "nama": "Tulin Onsoi"
+          },
+          {
+              "id": "650315",
+              "nama": "Lumbis Ogong"
+          },
+          {
+              "id": "650316",
+              "nama": "Sembakung Atulai"
+          },
+          {
+              "id": "650317",
+              "nama": "Krayan Tengah"
+          },
+          {
+              "id": "650318",
+              "nama": "Krayan Timur"
+          },
+          {
+              "id": "650319",
+              "nama": "Krayan Barat"
+          }
+      ]
+  },
+  {
+      "id": "1507",
+      "kecamatan": [
+          {
+              "id": "150701",
+              "nama": "Muara Sabak Timur"
+          },
+          {
+              "id": "150702",
+              "nama": "Nipah Panjang"
+          },
+          {
+              "id": "150703",
+              "nama": "Mendahara"
+          },
+          {
+              "id": "150704",
+              "nama": "Rantau Rasau"
+          },
+          {
+              "id": "150705",
+              "nama": "S a d u"
+          },
+          {
+              "id": "150706",
+              "nama": "Dendang"
+          },
+          {
+              "id": "150707",
+              "nama": "Muara Sabak Barat"
+          },
+          {
+              "id": "150708",
+              "nama": "Kuala Jambi"
+          },
+          {
+              "id": "150709",
+              "nama": "Mendahara Ulu"
+          },
+          {
+              "id": "150710",
+              "nama": "Geragai"
+          },
+          {
+              "id": "150711",
+              "nama": "Berbak"
+          }
+      ]
+  },
+  {
+      "id": "6411",
+      "kecamatan": [
+          {
+              "id": "641101",
+              "nama": "Long Bagun"
+          },
+          {
+              "id": "641102",
+              "nama": "Long Hubung"
+          },
+          {
+              "id": "641103",
+              "nama": "Laham"
+          },
+          {
+              "id": "641104",
+              "nama": "Long Apari"
+          },
+          {
+              "id": "641105",
+              "nama": "Long Pahangai"
+          }
+      ]
+  },
+  {
+      "id": "1803",
+      "kecamatan": [
+          {
+              "id": "180301",
+              "nama": "Bukit Kemuning"
+          },
+          {
+              "id": "180302",
+              "nama": "Kotabumi"
+          },
+          {
+              "id": "180303",
+              "nama": "Sungkai Selatan"
+          },
+          {
+              "id": "180304",
+              "nama": "Tanjung Raja"
+          },
+          {
+              "id": "180305",
+              "nama": "Abung Timur"
+          },
+          {
+              "id": "180306",
+              "nama": "Abung Barat"
+          },
+          {
+              "id": "180307",
+              "nama": "Abung Selatan"
+          },
+          {
+              "id": "180308",
+              "nama": "Sungkai Utara"
+          },
+          {
+              "id": "180309",
+              "nama": "Kotabumi Utara"
+          },
+          {
+              "id": "180310",
+              "nama": "Kotabumi Selatan"
+          },
+          {
+              "id": "180311",
+              "nama": "Abung Tengah"
+          },
+          {
+              "id": "180312",
+              "nama": "Abung Tinggi"
+          },
+          {
+              "id": "180313",
+              "nama": "Abung Semuli"
+          },
+          {
+              "id": "180314",
+              "nama": "Abung Surakarta"
+          },
+          {
+              "id": "180315",
+              "nama": "Muara Sungkai"
+          },
+          {
+              "id": "180316",
+              "nama": "Bunga Mayang"
+          },
+          {
+              "id": "180317",
+              "nama": "Hulu Sungkai"
+          },
+          {
+              "id": "180318",
+              "nama": "Sungkai Tengah"
+          },
+          {
+              "id": "180319",
+              "nama": "Abung Pekurun"
+          },
+          {
+              "id": "180320",
+              "nama": "Sungkai Jaya"
+          },
+          {
+              "id": "180321",
+              "nama": "Sungkai Barat"
+          },
+          {
+              "id": "180322",
+              "nama": "Abung Kunang"
+          },
+          {
+              "id": "180323",
+              "nama": "Blambangan Pagar"
+          }
+      ]
+  },
+  {
+      "id": "1602",
+      "kecamatan": [
+          {
+              "id": "160202",
+              "nama": "Tanjung Lubuk"
+          },
+          {
+              "id": "160203",
+              "nama": "Pedamaran"
+          },
+          {
+              "id": "160204",
+              "nama": "Mesuji"
+          },
+          {
+              "id": "160205",
+              "nama": "Kayu Agung"
+          },
+          {
+              "id": "160208",
+              "nama": "Sirah Pulau Padang"
+          },
+          {
+              "id": "160211",
+              "nama": "Tulung Selapan"
+          },
+          {
+              "id": "160212",
+              "nama": "Pampangan"
+          },
+          {
+              "id": "160213",
+              "nama": "Lempuing"
+          },
+          {
+              "id": "160214",
+              "nama": "Air Sugihan"
+          },
+          {
+              "id": "160215",
+              "nama": "Sungai Menang"
+          },
+          {
+              "id": "160217",
+              "nama": "Jejawi"
+          },
+          {
+              "id": "160218",
+              "nama": "Cengal"
+          },
+          {
+              "id": "160219",
+              "nama": "Pangkalan Lampam"
+          },
+          {
+              "id": "160220",
+              "nama": "Mesuji Makmur"
+          },
+          {
+              "id": "160221",
+              "nama": "Mesuji Raya"
+          },
+          {
+              "id": "160222",
+              "nama": "Lempuing Jaya"
+          },
+          {
+              "id": "160223",
+              "nama": "Teluk Gelam"
+          },
+          {
+              "id": "160224",
+              "nama": "Pedamaran Timur"
+          }
+      ]
+  },
+  {
+      "id": "6104",
+      "kecamatan": [
+          {
+              "id": "610401",
+              "nama": "Matan Hilir Utara"
+          },
+          {
+              "id": "610402",
+              "nama": "Marau"
+          },
+          {
+              "id": "610403",
+              "nama": "Manis Mata"
+          },
+          {
+              "id": "610404",
+              "nama": "Kendawangan"
+          },
+          {
+              "id": "610405",
+              "nama": "Sandai"
+          },
+          {
+              "id": "610407",
+              "nama": "Sungai Laur"
+          },
+          {
+              "id": "610408",
+              "nama": "Simpang Hulu"
+          },
+          {
+              "id": "610411",
+              "nama": "Nanga Tayap"
+          },
+          {
+              "id": "610412",
+              "nama": "Matan Hilir Selatan"
+          },
+          {
+              "id": "610413",
+              "nama": "Tumbang Titi"
+          },
+          {
+              "id": "610414",
+              "nama": "Jelai Hulu"
+          },
+          {
+              "id": "610416",
+              "nama": "Delta Pawan"
+          },
+          {
+              "id": "610417",
+              "nama": "Muara Pawan"
+          },
+          {
+              "id": "610418",
+              "nama": "Benua Kayong"
+          },
+          {
+              "id": "610419",
+              "nama": "Hulu Sungai"
+          },
+          {
+              "id": "610420",
+              "nama": "Simpang Dua"
+          },
+          {
+              "id": "610421",
+              "nama": "Air Upas"
+          },
+          {
+              "id": "610422",
+              "nama": "Singkup"
+          },
+          {
+              "id": "610424",
+              "nama": "Pemahan"
+          },
+          {
+              "id": "610425",
+              "nama": "Sungai Melayu Rayak"
+          }
+      ]
+  },
+  {
+      "id": "3306",
+      "kecamatan": [
+          {
+              "id": "330601",
+              "nama": "Grabag"
+          },
+          {
+              "id": "330602",
+              "nama": "Ngombol"
+          },
+          {
+              "id": "330603",
+              "nama": "Purwodadi"
+          },
+          {
+              "id": "330604",
+              "nama": "Bagelen"
+          },
+          {
+              "id": "330605",
+              "nama": "Kaligesing"
+          },
+          {
+              "id": "330606",
+              "nama": "Purworejo"
+          },
+          {
+              "id": "330607",
+              "nama": "Banyuurip"
+          },
+          {
+              "id": "330608",
+              "nama": "Bayan"
+          },
+          {
+              "id": "330609",
+              "nama": "Kutoarjo"
+          },
+          {
+              "id": "330610",
+              "nama": "Butuh"
+          },
+          {
+              "id": "330611",
+              "nama": "Pituruh"
+          },
+          {
+              "id": "330612",
+              "nama": "Kemiri"
+          },
+          {
+              "id": "330613",
+              "nama": "Bruno"
+          },
+          {
+              "id": "330614",
+              "nama": "Gebang"
+          },
+          {
+              "id": "330615",
+              "nama": "Loano"
+          },
+          {
+              "id": "330616",
+              "nama": "Bener"
+          }
+      ]
+  },
+  {
+      "id": "7201",
+      "kecamatan": [
+          {
+              "id": "720101",
+              "nama": "Batui"
+          },
+          {
+              "id": "720102",
+              "nama": "Bunta"
+          },
+          {
+              "id": "720103",
+              "nama": "Kintom"
+          },
+          {
+              "id": "720104",
+              "nama": "Luwuk"
+          },
+          {
+              "id": "720105",
+              "nama": "Lamala"
+          },
+          {
+              "id": "720106",
+              "nama": "Balantak"
+          },
+          {
+              "id": "720107",
+              "nama": "Pagimana"
+          },
+          {
+              "id": "720108",
+              "nama": "Bualemo"
+          },
+          {
+              "id": "720109",
+              "nama": "Toili"
+          },
+          {
+              "id": "720110",
+              "nama": "Masama"
+          },
+          {
+              "id": "720111",
+              "nama": "Luwuk Timur"
+          },
+          {
+              "id": "720112",
+              "nama": "Toili Barat"
+          },
+          {
+              "id": "720113",
+              "nama": "Nuhon"
+          },
+          {
+              "id": "720114",
+              "nama": "Moilong"
+          },
+          {
+              "id": "720115",
+              "nama": "Batui Selatan"
+          },
+          {
+              "id": "720116",
+              "nama": "Lobu"
+          },
+          {
+              "id": "720117",
+              "nama": "Simpang Raya"
+          },
+          {
+              "id": "720118",
+              "nama": "Balantak Selatan"
+          },
+          {
+              "id": "720119",
+              "nama": "Balantak Utara"
+          },
+          {
+              "id": "720120",
+              "nama": "Luwuk Selatan"
+          },
+          {
+              "id": "720121",
+              "nama": "Luwuk Utara"
+          },
+          {
+              "id": "720122",
+              "nama": "Mantoh"
+          },
+          {
+              "id": "720123",
+              "nama": "Nambo"
+          }
+      ]
+  },
+  {
+      "id": "6105",
+      "kecamatan": [
+          {
+              "id": "610501",
+              "nama": "Sintang"
+          },
+          {
+              "id": "610502",
+              "nama": "Tempunak"
+          },
+          {
+              "id": "610503",
+              "nama": "Sepauk"
+          },
+          {
+              "id": "610504",
+              "nama": "Ketungau Hilir"
+          },
+          {
+              "id": "610505",
+              "nama": "Ketungau Tengah"
+          },
+          {
+              "id": "610506",
+              "nama": "Ketungau Hulu"
+          },
+          {
+              "id": "610507",
+              "nama": "Dedai"
+          },
+          {
+              "id": "610508",
+              "nama": "Kayan Hilir"
+          },
+          {
+              "id": "610509",
+              "nama": "Kayan Hulu"
+          },
+          {
+              "id": "610514",
+              "nama": "Serawai"
+          },
+          {
+              "id": "610515",
+              "nama": "Ambalau"
+          },
+          {
+              "id": "610519",
+              "nama": "Kelam Permai"
+          },
+          {
+              "id": "610520",
+              "nama": "Sungai Tebelian"
+          },
+          {
+              "id": "610521",
+              "nama": "Binjai Hulu"
+          }
+      ]
+  },
+  {
+      "id": "3307",
+      "kecamatan": [
+          {
+              "id": "330701",
+              "nama": "Wadaslintang"
+          },
+          {
+              "id": "330702",
+              "nama": "Kepil"
+          },
+          {
+              "id": "330703",
+              "nama": "Sapuran"
+          },
+          {
+              "id": "330704",
+              "nama": "Kaliwiro"
+          },
+          {
+              "id": "330705",
+              "nama": "Leksono"
+          },
+          {
+              "id": "330706",
+              "nama": "Selomerto"
+          },
+          {
+              "id": "330707",
+              "nama": "Kalikajar"
+          },
+          {
+              "id": "330708",
+              "nama": "Kertek"
+          },
+          {
+              "id": "330709",
+              "nama": "Wonosobo"
+          },
+          {
+              "id": "330710",
+              "nama": "Watumalang"
+          },
+          {
+              "id": "330711",
+              "nama": "Mojotengah"
+          },
+          {
+              "id": "330712",
+              "nama": "Garung"
+          },
+          {
+              "id": "330713",
+              "nama": "Kejajar"
+          },
+          {
+              "id": "330714",
+              "nama": "Sukoharjo"
+          },
+          {
+              "id": "330715",
+              "nama": "Kalibawang"
+          }
+      ]
+  },
+  {
+      "id": "1506",
+      "kecamatan": [
+          {
+              "id": "150601",
+              "nama": "Tungkal Ulu"
+          },
+          {
+              "id": "150602",
+              "nama": "Tungkal Ilir"
+          },
+          {
+              "id": "150603",
+              "nama": "Pengabuan"
+          },
+          {
+              "id": "150604",
+              "nama": "Betara"
+          },
+          {
+              "id": "150605",
+              "nama": "Merlung"
+          },
+          {
+              "id": "150606",
+              "nama": "Tebing Tinggi"
+          },
+          {
+              "id": "150607",
+              "nama": "Batang Asam"
+          },
+          {
+              "id": "150608",
+              "nama": "Renah Mendaluh"
+          },
+          {
+              "id": "150609",
+              "nama": "Muara Papalik"
+          },
+          {
+              "id": "150610",
+              "nama": "Seberang Kota"
+          },
+          {
+              "id": "150611",
+              "nama": "Bram Itam"
+          },
+          {
+              "id": "150612",
+              "nama": "Kuala Betara"
+          },
+          {
+              "id": "150613",
+              "nama": "Senyerang"
+          }
+      ]
+  },
+  {
+      "id": "7606",
+      "kecamatan": [
+          {
+              "id": "760601",
+              "nama": "Tobadak"
+          },
+          {
+              "id": "760602",
+              "nama": "Pangale"
+          },
+          {
+              "id": "760603",
+              "nama": "Budong-Budong"
+          },
+          {
+              "id": "760604",
+              "nama": "Topoyo"
+          },
+          {
+              "id": "760605",
+              "nama": "Karossa"
+          }
+      ]
+  },
+  {
+      "id": "3215",
+      "kecamatan": [
+          {
+              "id": "321501",
+              "nama": "Karawang Barat"
+          },
+          {
+              "id": "321502",
+              "nama": "Pangkalan"
+          },
+          {
+              "id": "321503",
+              "nama": "Telukjambe Timur"
+          },
+          {
+              "id": "321504",
+              "nama": "Ciampel"
+          },
+          {
+              "id": "321505",
+              "nama": "Klari"
+          },
+          {
+              "id": "321506",
+              "nama": "Rengasdengklok"
+          },
+          {
+              "id": "321507",
+              "nama": "Kutawaluya"
+          },
+          {
+              "id": "321508",
+              "nama": "Batujaya"
+          },
+          {
+              "id": "321509",
+              "nama": "Tirtajaya"
+          },
+          {
+              "id": "321510",
+              "nama": "Pedes"
+          },
+          {
+              "id": "321511",
+              "nama": "Cibuaya"
+          },
+          {
+              "id": "321512",
+              "nama": "Pakisjaya"
+          },
+          {
+              "id": "321513",
+              "nama": "Cikampek"
+          },
+          {
+              "id": "321514",
+              "nama": "Jatisari"
+          },
+          {
+              "id": "321515",
+              "nama": "Cilamaya Wetan"
+          },
+          {
+              "id": "321516",
+              "nama": "Tirtamulya"
+          },
+          {
+              "id": "321517",
+              "nama": "Telagasari"
+          },
+          {
+              "id": "321518",
+              "nama": "Rawamerta"
+          },
+          {
+              "id": "321519",
+              "nama": "Lemahabang"
+          },
+          {
+              "id": "321520",
+              "nama": "Tempuran"
+          },
+          {
+              "id": "321521",
+              "nama": "Majalaya"
+          },
+          {
+              "id": "321522",
+              "nama": "Jayakerta"
+          },
+          {
+              "id": "321523",
+              "nama": "Cilamaya Kulon"
+          },
+          {
+              "id": "321524",
+              "nama": "Banyusari"
+          },
+          {
+              "id": "321525",
+              "nama": "Kota Baru"
+          },
+          {
+              "id": "321526",
+              "nama": "Karawang Timur"
+          },
+          {
+              "id": "321527",
+              "nama": "Telukjambe Barat"
+          },
+          {
+              "id": "321528",
+              "nama": "Tegalwaru"
+          },
+          {
+              "id": "321529",
+              "nama": "Purwasari"
+          },
+          {
+              "id": "321530",
+              "nama": "Cilebar"
+          }
+      ]
+  },
+  {
+      "id": "6502",
+      "kecamatan": [
+          {
+              "id": "650201",
+              "nama": "Mentarang"
+          },
+          {
+              "id": "650202",
+              "nama": "Malinau Kota"
+          },
+          {
+              "id": "650203",
+              "nama": "Pujungan"
+          },
+          {
+              "id": "650204",
+              "nama": "Kayan Hilir"
+          },
+          {
+              "id": "650205",
+              "nama": "Kayan Hulu"
+          },
+          {
+              "id": "650206",
+              "nama": "Malinau Selatan"
+          },
+          {
+              "id": "650207",
+              "nama": "Malinau Utara"
+          },
+          {
+              "id": "650208",
+              "nama": "Malinau Barat"
+          },
+          {
+              "id": "650209",
+              "nama": "Sungai Boh"
+          },
+          {
+              "id": "650210",
+              "nama": "Kayan Selatan"
+          },
+          {
+              "id": "650211",
+              "nama": "Bahau Hulu"
+          },
+          {
+              "id": "650212",
+              "nama": "Mentarang Hulu"
+          },
+          {
+              "id": "650213",
+              "nama": "Malinau Selatan Hilir"
+          },
+          {
+              "id": "650214",
+              "nama": "Malinau Selatan Hulu"
+          },
+          {
+              "id": "650215",
+              "nama": "Sungai Tubu"
+          }
+      ]
+  },
+  {
+      "id": "7313",
+      "kecamatan": [
+          {
+              "id": "731301",
+              "nama": "Sabangparu"
+          },
+          {
+              "id": "731302",
+              "nama": "Pammana"
+          },
+          {
+              "id": "731303",
+              "nama": "Takkalalla"
+          },
+          {
+              "id": "731304",
+              "nama": "Sajoanging"
+          },
+          {
+              "id": "731305",
+              "nama": "Majauleng"
+          },
+          {
+              "id": "731306",
+              "nama": "Tempe"
+          },
+          {
+              "id": "731307",
+              "nama": "Belawa"
+          },
+          {
+              "id": "731308",
+              "nama": "Tanasitolo"
+          },
+          {
+              "id": "731309",
+              "nama": "Maniangpajo"
+          },
+          {
+              "id": "731310",
+              "nama": "Pitumpanua"
+          },
+          {
+              "id": "731311",
+              "nama": "Bola"
+          },
+          {
+              "id": "731312",
+              "nama": "Penrang"
+          },
+          {
+              "id": "731313",
+              "nama": "Gilireng"
+          },
+          {
+              "id": "731314",
+              "nama": "Keera"
+          }
+      ]
+  },
+  {
+      "id": "1101",
+      "kecamatan": [
+          {
+              "id": "110101",
+              "nama": "Bakongan"
+          },
+          {
+              "id": "110102",
+              "nama": "Kluet Utara"
+          },
+          {
+              "id": "110103",
+              "nama": "Kluet Selatan"
+          },
+          {
+              "id": "110104",
+              "nama": "Labuhan Haji"
+          },
+          {
+              "id": "110105",
+              "nama": "Meukek"
+          },
+          {
+              "id": "110106",
+              "nama": "Samadua"
+          },
+          {
+              "id": "110107",
+              "nama": "Sawang"
+          },
+          {
+              "id": "110108",
+              "nama": "Tapaktuan"
+          },
+          {
+              "id": "110109",
+              "nama": "Trumon"
+          },
+          {
+              "id": "110110",
+              "nama": "Pasi Raja"
+          },
+          {
+              "id": "110111",
+              "nama": "Labuhan Haji Timur"
+          },
+          {
+              "id": "110112",
+              "nama": "Labuhan Haji Barat"
+          },
+          {
+              "id": "110113",
+              "nama": "Kluet Tengah"
+          },
+          {
+              "id": "110114",
+              "nama": "Kluet Timur"
+          },
+          {
+              "id": "110115",
+              "nama": "Bakongan  Timur"
+          },
+          {
+              "id": "110116",
+              "nama": "Trumon Timur"
+          },
+          {
+              "id": "110117",
+              "nama": "Kota Bahagia"
+          },
+          {
+              "id": "110118",
+              "nama": "Trumon Tengah"
+          }
+      ]
+  },
+  {
+      "id": "1802",
+      "kecamatan": [
+          {
+              "id": "180201",
+              "nama": "Kalirejo"
+          },
+          {
+              "id": "180202",
+              "nama": "Bangun Rejo"
+          },
+          {
+              "id": "180203",
+              "nama": "Padang Ratu"
+          },
+          {
+              "id": "180204",
+              "nama": "Gunung Sugih"
+          },
+          {
+              "id": "180205",
+              "nama": "Trimurjo"
+          },
+          {
+              "id": "180206",
+              "nama": "Punggur"
+          },
+          {
+              "id": "180207",
+              "nama": "Terbanggi Besar"
+          },
+          {
+              "id": "180208",
+              "nama": "Seputih Raman"
+          },
+          {
+              "id": "180209",
+              "nama": "Rumbia"
+          },
+          {
+              "id": "180210",
+              "nama": "Seputih Banyak"
+          },
+          {
+              "id": "180211",
+              "nama": "Seputih Mataram"
+          },
+          {
+              "id": "180212",
+              "nama": "Seputih Surabaya"
+          },
+          {
+              "id": "180213",
+              "nama": "Terusan Nunyai"
+          },
+          {
+              "id": "180214",
+              "nama": "Bumi Ratu Nuban"
+          },
+          {
+              "id": "180215",
+              "nama": "Bekri"
+          },
+          {
+              "id": "180216",
+              "nama": "Seputih Agung"
+          },
+          {
+              "id": "180217",
+              "nama": "Way Pangubuan"
+          },
+          {
+              "id": "180218",
+              "nama": "Bandar Mataram"
+          },
+          {
+              "id": "180219",
+              "nama": "Pubian"
+          },
+          {
+              "id": "180220",
+              "nama": "Selagai Lingga"
+          },
+          {
+              "id": "180221",
+              "nama": "Anak Tuha"
+          },
+          {
+              "id": "180222",
+              "nama": "Sendang Agung"
+          },
+          {
+              "id": "180223",
+              "nama": "Kota Gajah"
+          },
+          {
+              "id": "180224",
+              "nama": "Bumi Nabung"
+          },
+          {
+              "id": "180225",
+              "nama": "Way Seputih"
+          },
+          {
+              "id": "180226",
+              "nama": "Bandar Surabaya"
+          },
+          {
+              "id": "180227",
+              "nama": "Anak Ratu Aji"
+          },
+          {
+              "id": "180228",
+              "nama": "Putra Rumbia"
+          }
+      ]
+  },
+  {
+      "id": "1402",
+      "kecamatan": [
+          {
+              "id": "140201",
+              "nama": "Rengat"
+          },
+          {
+              "id": "140202",
+              "nama": "Rengat Barat"
+          },
+          {
+              "id": "140203",
+              "nama": "Kelayang"
+          },
+          {
+              "id": "140204",
+              "nama": "Pasir Penyu"
+          },
+          {
+              "id": "140205",
+              "nama": "Peranap"
+          },
+          {
+              "id": "140206",
+              "nama": "Siberida"
+          },
+          {
+              "id": "140207",
+              "nama": "Batang Cenaku"
+          },
+          {
+              "id": "140208",
+              "nama": "Batang Gangsal"
+          },
+          {
+              "id": "140209",
+              "nama": "Lirik"
+          },
+          {
+              "id": "140210",
+              "nama": "Kuala Cenaku"
+          },
+          {
+              "id": "140211",
+              "nama": "Sungai Lala"
+          },
+          {
+              "id": "140212",
+              "nama": "Lubuk Batu Jaya"
+          },
+          {
+              "id": "140213",
+              "nama": "Rakit Kulim"
+          },
+          {
+              "id": "140214",
+              "nama": "Batang Peranap"
+          }
+      ]
+  },
+  {
+      "id": "1117",
+      "kecamatan": [
+          {
+              "id": "111701",
+              "nama": "Pintu Rime Gayo"
+          },
+          {
+              "id": "111702",
+              "nama": "Permata"
+          },
+          {
+              "id": "111703",
+              "nama": "Syiah Utama"
+          },
+          {
+              "id": "111704",
+              "nama": "Bandar"
+          },
+          {
+              "id": "111705",
+              "nama": "Bukit"
+          },
+          {
+              "id": "111706",
+              "nama": "Wih Pesam"
+          },
+          {
+              "id": "111707",
+              "nama": "Timang gajah"
+          },
+          {
+              "id": "111708",
+              "nama": "Bener Kelipah"
+          },
+          {
+              "id": "111709",
+              "nama": "Mesidah"
+          },
+          {
+              "id": "111710",
+              "nama": "Gajah Putih"
+          }
+      ]
+  },
+  {
+      "id": "7305",
+      "kecamatan": [
+          {
+              "id": "730501",
+              "nama": "Mappakasunggu"
+          },
+          {
+              "id": "730502",
+              "nama": "Mangarabombang"
+          },
+          {
+              "id": "730503",
+              "nama": "Polombangkeng Selatan"
+          },
+          {
+              "id": "730504",
+              "nama": "Polombangkeng Utara"
+          },
+          {
+              "id": "730505",
+              "nama": "Galesong Selatan"
+          },
+          {
+              "id": "730506",
+              "nama": "Galesong Utara"
+          },
+          {
+              "id": "730507",
+              "nama": "Pattallassang"
+          },
+          {
+              "id": "730508",
+              "nama": "Sanrobone"
+          },
+          {
+              "id": "730509",
+              "nama": "Galesong"
+          },
+          {
+              "id": "730510",
+              "nama": "Kepulauan Tanakeke"
+          }
+      ]
+  },
+  {
+      "id": "3203",
+      "kecamatan": [
+          {
+              "id": "320301",
+              "nama": "Cianjur"
+          },
+          {
+              "id": "320302",
+              "nama": "Warungkondang"
+          },
+          {
+              "id": "320303",
+              "nama": "Cibeber"
+          },
+          {
+              "id": "320304",
+              "nama": "Cilaku"
+          },
+          {
+              "id": "320305",
+              "nama": "Ciranjang"
+          },
+          {
+              "id": "320306",
+              "nama": "Bojongpicung"
+          },
+          {
+              "id": "320307",
+              "nama": "Karangtengah"
+          },
+          {
+              "id": "320308",
+              "nama": "Mande"
+          },
+          {
+              "id": "320309",
+              "nama": "Sukaluyu"
+          },
+          {
+              "id": "320310",
+              "nama": "Pacet"
+          },
+          {
+              "id": "320311",
+              "nama": "Cugenang"
+          },
+          {
+              "id": "320312",
+              "nama": "Cikalongkulon"
+          },
+          {
+              "id": "320313",
+              "nama": "Sukaresmi"
+          },
+          {
+              "id": "320314",
+              "nama": "Sukanagara"
+          },
+          {
+              "id": "320315",
+              "nama": "Campaka"
+          },
+          {
+              "id": "320316",
+              "nama": "Takokak"
+          },
+          {
+              "id": "320317",
+              "nama": "Kadupandak"
+          },
+          {
+              "id": "320318",
+              "nama": "Pagelaran"
+          },
+          {
+              "id": "320319",
+              "nama": "Tanggeung"
+          },
+          {
+              "id": "320320",
+              "nama": "Cibinong"
+          },
+          {
+              "id": "320321",
+              "nama": "Sindangbarang"
+          },
+          {
+              "id": "320322",
+              "nama": "Agrabinta"
+          },
+          {
+              "id": "320323",
+              "nama": "Cidaun"
+          },
+          {
+              "id": "320324",
+              "nama": "Naringgul"
+          },
+          {
+              "id": "320325",
+              "nama": "Campakamulya"
+          },
+          {
+              "id": "320326",
+              "nama": "Cikadu"
+          },
+          {
+              "id": "320327",
+              "nama": "Gekbrong"
+          },
+          {
+              "id": "320328",
+              "nama": "Cipanas"
+          },
+          {
+              "id": "320329",
+              "nama": "Cijati"
+          },
+          {
+              "id": "320330",
+              "nama": "Leles"
+          },
+          {
+              "id": "320331",
+              "nama": "Haurwangi"
+          },
+          {
+              "id": "320332",
+              "nama": "Pasirkuda"
+          }
+      ]
+  },
+  {
+      "id": "9209",
+      "kecamatan": [
+          {
+              "id": "920901",
+              "nama": "Fef"
+          },
+          {
+              "id": "920902",
+              "nama": "Miyah"
+          },
+          {
+              "id": "920903",
+              "nama": "Yembun"
+          },
+          {
+              "id": "920904",
+              "nama": "Kwoor"
+          },
+          {
+              "id": "920905",
+              "nama": "Sausapor"
+          },
+          {
+              "id": "920906",
+              "nama": "Abun"
+          },
+          {
+              "id": "920907",
+              "nama": "Syujak"
+          },
+          {
+              "id": "920908",
+              "nama": "Moraid"
+          },
+          {
+              "id": "920909",
+              "nama": "Kebar"
+          },
+          {
+              "id": "920910",
+              "nama": "Amberbaken"
+          },
+          {
+              "id": "920911",
+              "nama": "Senopi"
+          },
+          {
+              "id": "920912",
+              "nama": "Mubrani"
+          },
+          {
+              "id": "920913",
+              "nama": "Bikar"
+          },
+          {
+              "id": "920914",
+              "nama": "Bamusbama"
+          },
+          {
+              "id": "920915",
+              "nama": "Ases"
+          },
+          {
+              "id": "920916",
+              "nama": "Miyah Selatan"
+          },
+          {
+              "id": "920917",
+              "nama": "Ireres"
+          },
+          {
+              "id": "920918",
+              "nama": "Tobouw"
+          },
+          {
+              "id": "920919",
+              "nama": "Wilhem Roumbouts"
+          },
+          {
+              "id": "920920",
+              "nama": "Tinggouw"
+          },
+          {
+              "id": "920921",
+              "nama": "Kwesefo"
+          },
+          {
+              "id": "920922",
+              "nama": "Mawabuan"
+          },
+          {
+              "id": "920923",
+              "nama": "Kebar Timur"
+          },
+          {
+              "id": "920924",
+              "nama": "Kebar Selatan"
+          },
+          {
+              "id": "920925",
+              "nama": "Manekar"
+          },
+          {
+              "id": "920926",
+              "nama": "Mpur"
+          },
+          {
+              "id": "920927",
+              "nama": "Amberbaken Barat"
+          },
+          {
+              "id": "920928",
+              "nama": "Kasi"
+          },
+          {
+              "id": "920929",
+              "nama": "Selemkai"
+          }
+      ]
+  },
+  {
+      "id": "3604",
+      "kecamatan": [
+          {
+              "id": "360405",
+              "nama": "Kramatwatu"
+          },
+          {
+              "id": "360406",
+              "nama": "Waringinkurung"
+          },
+          {
+              "id": "360407",
+              "nama": "Bojonegara"
+          },
+          {
+              "id": "360408",
+              "nama": "Pulo Ampel"
+          },
+          {
+              "id": "360409",
+              "nama": "Ciruas"
+          },
+          {
+              "id": "360411",
+              "nama": "Kragilan"
+          },
+          {
+              "id": "360412",
+              "nama": "Pontang"
+          },
+          {
+              "id": "360413",
+              "nama": "Tirtayasa"
+          },
+          {
+              "id": "360414",
+              "nama": "Tanara"
+          },
+          {
+              "id": "360415",
+              "nama": "Cikande"
+          },
+          {
+              "id": "360416",
+              "nama": "Kibin"
+          },
+          {
+              "id": "360417",
+              "nama": "Carenang"
+          },
+          {
+              "id": "360418",
+              "nama": "Binuang"
+          },
+          {
+              "id": "360419",
+              "nama": "Petir"
+          },
+          {
+              "id": "360420",
+              "nama": "Tunjung Teja"
+          },
+          {
+              "id": "360422",
+              "nama": "Baros"
+          },
+          {
+              "id": "360423",
+              "nama": "Cikeusal"
+          },
+          {
+              "id": "360424",
+              "nama": "Pamarayan"
+          },
+          {
+              "id": "360425",
+              "nama": "Kopo"
+          },
+          {
+              "id": "360426",
+              "nama": "Jawilan"
+          },
+          {
+              "id": "360427",
+              "nama": "Ciomas"
+          },
+          {
+              "id": "360428",
+              "nama": "Pabuaran"
+          },
+          {
+              "id": "360429",
+              "nama": "Padarincang"
+          },
+          {
+              "id": "360430",
+              "nama": "Anyar"
+          },
+          {
+              "id": "360431",
+              "nama": "Cinangka"
+          },
+          {
+              "id": "360432",
+              "nama": "Mancak"
+          },
+          {
+              "id": "360433",
+              "nama": "Gunung Sari"
+          },
+          {
+              "id": "360434",
+              "nama": "Bandung"
+          },
+          {
+              "id": "360435",
+              "nama": "Lebak Wangi"
+          }
+      ]
+  },
+  {
+      "id": "3311",
+      "kecamatan": [
+          {
+              "id": "331101",
+              "nama": "Weru"
+          },
+          {
+              "id": "331102",
+              "nama": "Bulu"
+          },
+          {
+              "id": "331103",
+              "nama": "Tawangsari"
+          },
+          {
+              "id": "331104",
+              "nama": "Sukoharjo"
+          },
+          {
+              "id": "331105",
+              "nama": "Nguter"
+          },
+          {
+              "id": "331106",
+              "nama": "Bendosari"
+          },
+          {
+              "id": "331107",
+              "nama": "Polokarto"
+          },
+          {
+              "id": "331108",
+              "nama": "Mojolaban"
+          },
+          {
+              "id": "331109",
+              "nama": "Grogol"
+          },
+          {
+              "id": "331110",
+              "nama": "Baki"
+          },
+          {
+              "id": "331111",
+              "nama": "Gatak"
+          },
+          {
+              "id": "331112",
+              "nama": "Kartasura"
+          }
+      ]
+  },
+  {
+      "id": "9435",
+      "kecamatan": [
+          {
+              "id": "9435010",
+              "nama": "HOMEYO"
+          },
+          {
+              "id": "9435020",
+              "nama": "SUGAPA"
+          },
+          {
+              "id": "9435030",
+              "nama": "HITADIPA"
+          },
+          {
+              "id": "9435040",
+              "nama": "AGISIGA"
+          },
+          {
+              "id": "9435050",
+              "nama": "BIANDOGA"
+          },
+          {
+              "id": "9435060",
+              "nama": "WANDAI"
+          }
+      ]
+  },
+  {
+      "id": "1906",
+      "kecamatan": [
+          {
+              "id": "190601",
+              "nama": "Manggar"
+          },
+          {
+              "id": "190602",
+              "nama": "Gantung"
+          },
+          {
+              "id": "190603",
+              "nama": "Dendang"
+          },
+          {
+              "id": "190604",
+              "nama": "Kelapa Kampit"
+          },
+          {
+              "id": "190605",
+              "nama": "Damar"
+          },
+          {
+              "id": "190606",
+              "nama": "Simpang Renggiang"
+          },
+          {
+              "id": "190607",
+              "nama": "Simpang Pesak"
+          }
+      ]
+  },
+  {
+      "id": "9120",
+      "kecamatan": [
+          {
+              "id": "912001",
+              "nama": "Mamberamo Tengah"
+          },
+          {
+              "id": "912002",
+              "nama": "Mamberamo Hulu"
+          },
+          {
+              "id": "912003",
+              "nama": "Rufaer"
+          },
+          {
+              "id": "912004",
+              "nama": "Mamberamo Tengah Timur"
+          },
+          {
+              "id": "912005",
+              "nama": "Mamberamo Hilir"
+          },
+          {
+              "id": "912006",
+              "nama": "Waropen Atas"
+          },
+          {
+              "id": "912007",
+              "nama": "Benuki"
+          },
+          {
+              "id": "912008",
+              "nama": "Sawai"
+          }
+      ]
+  },
+  {
+      "id": "5103",
+      "kecamatan": [
+          {
+              "id": "510301",
+              "nama": "Kuta"
+          },
+          {
+              "id": "510302",
+              "nama": "Mengwi"
+          },
+          {
+              "id": "510303",
+              "nama": "Abiansemal"
+          },
+          {
+              "id": "510304",
+              "nama": "Petang"
+          },
+          {
+              "id": "510305",
+              "nama": "Kuta Selatan"
+          },
+          {
+              "id": "510306",
+              "nama": "Kuta Utara"
+          }
+      ]
+  },
+  {
+      "id": "1707",
+      "kecamatan": [
+          {
+              "id": "170701",
+              "nama": "Lebong Utara"
+          },
+          {
+              "id": "170702",
+              "nama": "Lebong Atas"
+          },
+          {
+              "id": "170703",
+              "nama": "Lebong Tengah"
+          },
+          {
+              "id": "170704",
+              "nama": "Lebong Selatan"
+          },
+          {
+              "id": "170705",
+              "nama": "Rimbo Pengadang"
+          },
+          {
+              "id": "170706",
+              "nama": "Topos"
+          },
+          {
+              "id": "170707",
+              "nama": "Bingin Kuning"
+          },
+          {
+              "id": "170708",
+              "nama": "Lebong Sakti"
+          },
+          {
+              "id": "170709",
+              "nama": "Pelabai"
+          },
+          {
+              "id": "170710",
+              "nama": "Amen"
+          },
+          {
+              "id": "170711",
+              "nama": "Uram Jaya"
+          },
+          {
+              "id": "170712",
+              "nama": "Pinang Belapis"
+          }
+      ]
+  },
+  {
+      "id": "5314",
+      "kecamatan": [
+          {
+              "id": "531401",
+              "nama": "Rote Barat Daya"
+          },
+          {
+              "id": "531402",
+              "nama": "Rote Barat Laut"
+          },
+          {
+              "id": "531403",
+              "nama": "Lobalain"
+          },
+          {
+              "id": "531404",
+              "nama": "Rote Tengah"
+          },
+          {
+              "id": "531405",
+              "nama": "Pantai Baru"
+          },
+          {
+              "id": "531406",
+              "nama": "Rote Timur"
+          },
+          {
+              "id": "531407",
+              "nama": "Rote Barat"
+          },
+          {
+              "id": "531408",
+              "nama": "Rote Selatan"
+          },
+          {
+              "id": "531409",
+              "nama": "Ndao Nuse"
+          },
+          {
+              "id": "531410",
+              "nama": "Landu Leko"
+          }
+      ]
+  },
+  {
+      "id": "1212",
+      "kecamatan": [
+          {
+              "id": "121201",
+              "nama": "Balige"
+          },
+          {
+              "id": "121202",
+              "nama": "Laguboti"
+          },
+          {
+              "id": "121203",
+              "nama": "Silaen"
+          },
+          {
+              "id": "121204",
+              "nama": "Habinsaran"
+          },
+          {
+              "id": "121205",
+              "nama": "Pintu Pohan Meranti"
+          },
+          {
+              "id": "121206",
+              "nama": "Borbor"
+          },
+          {
+              "id": "121207",
+              "nama": "Porsea"
+          },
+          {
+              "id": "121208",
+              "nama": "Ajibata"
+          },
+          {
+              "id": "121209",
+              "nama": "Lumban Julu"
+          },
+          {
+              "id": "121210",
+              "nama": "Uluan"
+          },
+          {
+              "id": "121219",
+              "nama": "Sigumpar"
+          },
+          {
+              "id": "121220",
+              "nama": "Siantar Narumonda"
+          },
+          {
+              "id": "121221",
+              "nama": "Nassau"
+          },
+          {
+              "id": "121222",
+              "nama": "Tampahan"
+          },
+          {
+              "id": "121223",
+              "nama": "Bonatua Lunasi"
+          },
+          {
+              "id": "121224",
+              "nama": "Parmaksian"
+          }
+      ]
+  },
+  {
+      "id": "6304",
+      "kecamatan": [
+          {
+              "id": "630401",
+              "nama": "Tabunganen"
+          },
+          {
+              "id": "630402",
+              "nama": "Tamban"
+          },
+          {
+              "id": "630403",
+              "nama": "Anjir Pasar"
+          },
+          {
+              "id": "630404",
+              "nama": "Anjir Muara"
+          },
+          {
+              "id": "630405",
+              "nama": "Alalak"
+          },
+          {
+              "id": "630406",
+              "nama": "Mandastana"
+          },
+          {
+              "id": "630407",
+              "nama": "Rantau Badauh"
+          },
+          {
+              "id": "630408",
+              "nama": "Belawang"
+          },
+          {
+              "id": "630409",
+              "nama": "Cerbon"
+          },
+          {
+              "id": "630410",
+              "nama": "Bakumpai"
+          },
+          {
+              "id": "630411",
+              "nama": "Kuripan"
+          },
+          {
+              "id": "630412",
+              "nama": "Tabukan"
+          },
+          {
+              "id": "630413",
+              "nama": "Mekarsari"
+          },
+          {
+              "id": "630414",
+              "nama": "Barambai"
+          },
+          {
+              "id": "630415",
+              "nama": "Marabahan"
+          },
+          {
+              "id": "630416",
+              "nama": "Wanaraya"
+          },
+          {
+              "id": "630417",
+              "nama": "Jejangkit"
+          }
+      ]
+  },
+  {
+      "id": "3278",
+      "kecamatan": [
+          {
+              "id": "327801",
+              "nama": "Cihideung"
+          },
+          {
+              "id": "327802",
+              "nama": "Cipedes"
+          },
+          {
+              "id": "327803",
+              "nama": "Tawang"
+          },
+          {
+              "id": "327804",
+              "nama": "Indihiang"
+          },
+          {
+              "id": "327805",
+              "nama": "Kawalu"
+          },
+          {
+              "id": "327806",
+              "nama": "Cibeureum"
+          },
+          {
+              "id": "327807",
+              "nama": "Tamansari"
+          },
+          {
+              "id": "327808",
+              "nama": "Mangkubumi"
+          },
+          {
+              "id": "327809",
+              "nama": "Bungursari"
+          },
+          {
+              "id": "327810",
+              "nama": "Purbaratu"
+          }
+      ]
+  },
+  {
+      "id": "3501",
+      "kecamatan": [
+          {
+              "id": "350101",
+              "nama": "Donorojo"
+          },
+          {
+              "id": "350102",
+              "nama": "Pringkuku"
+          },
+          {
+              "id": "350103",
+              "nama": "Punung"
+          },
+          {
+              "id": "350104",
+              "nama": "Pacitan"
+          },
+          {
+              "id": "350105",
+              "nama": "Kebonagung"
+          },
+          {
+              "id": "350106",
+              "nama": "Arjosari"
+          },
+          {
+              "id": "350107",
+              "nama": "Nawangan"
+          },
+          {
+              "id": "350108",
+              "nama": "Bandar"
+          },
+          {
+              "id": "350109",
+              "nama": "Tegalombo"
+          },
+          {
+              "id": "350110",
+              "nama": "Tulakan"
+          },
+          {
+              "id": "350111",
+              "nama": "Ngadirojo"
+          },
+          {
+              "id": "350112",
+              "nama": "Sudimoro"
+          }
+      ]
+  },
+  {
+      "id": "5206",
+      "kecamatan": [
+          {
+              "id": "520601",
+              "nama": "Monta"
+          },
+          {
+              "id": "520602",
+              "nama": "Bolo"
+          },
+          {
+              "id": "520603",
+              "nama": "Woha"
+          },
+          {
+              "id": "520604",
+              "nama": "Belo"
+          },
+          {
+              "id": "520605",
+              "nama": "Wawo"
+          },
+          {
+              "id": "520606",
+              "nama": "Sape"
+          },
+          {
+              "id": "520607",
+              "nama": "Wera"
+          },
+          {
+              "id": "520608",
+              "nama": "Donggo"
+          },
+          {
+              "id": "520609",
+              "nama": "Sanggar"
+          },
+          {
+              "id": "520610",
+              "nama": "Ambalawi"
+          },
+          {
+              "id": "520611",
+              "nama": "Langgudu"
+          },
+          {
+              "id": "520612",
+              "nama": "Lambu"
+          },
+          {
+              "id": "520613",
+              "nama": "Madapangga"
+          },
+          {
+              "id": "520614",
+              "nama": "Tambora"
+          },
+          {
+              "id": "520615",
+              "nama": "Soromandi"
+          },
+          {
+              "id": "520616",
+              "nama": "Parado"
+          },
+          {
+              "id": "520617",
+              "nama": "Lambitu"
+          },
+          {
+              "id": "520618",
+              "nama": "Palibelo"
+          }
+      ]
+  },
+  {
+      "id": "7407",
+      "kecamatan": [
+          {
+              "id": "740701",
+              "nama": "Wangi-Wangi"
+          },
+          {
+              "id": "740702",
+              "nama": "Kaledupa"
+          },
+          {
+              "id": "740703",
+              "nama": "Tomia"
+          },
+          {
+              "id": "740704",
+              "nama": "Binongko"
+          },
+          {
+              "id": "740705",
+              "nama": "Wangi Wangi Selatan"
+          },
+          {
+              "id": "740706",
+              "nama": "Kaledupa Selatan"
+          },
+          {
+              "id": "740707",
+              "nama": "Tomia Timur"
+          },
+          {
+              "id": "740708",
+              "nama": "Togo Binongko"
+          }
+      ]
+  },
+  {
+      "id": "8208",
+      "kecamatan": [
+          {
+              "id": "820801",
+              "nama": "Taliabu Barat"
+          },
+          {
+              "id": "820802",
+              "nama": "Taliabu Barat Laut"
+          },
+          {
+              "id": "820803",
+              "nama": "Lede"
+          },
+          {
+              "id": "820804",
+              "nama": "Taliabu Utara"
+          },
+          {
+              "id": "820805",
+              "nama": "Taliabu Timur"
+          },
+          {
+              "id": "820806",
+              "nama": "Taliabu Timur Selatan"
+          },
+          {
+              "id": "820807",
+              "nama": "Taliabu Selatan"
+          },
+          {
+              "id": "820808",
+              "nama": "Tabona"
+          }
+      ]
+  },
+  {
+      "id": "9419",
+      "kecamatan": [
+          {
+              "id": "9419021",
+              "nama": "PANTAI TIMUR BAGIAN BARAT"
+          },
+          {
+              "id": "9419022",
+              "nama": "PANTAI TIMUR"
+          },
+          {
+              "id": "9419024",
+              "nama": "SUNGAI BIRI"
+          },
+          {
+              "id": "9419031",
+              "nama": "BONGGO"
+          },
+          {
+              "id": "9419032",
+              "nama": "BONGGO TIMUR"
+          },
+          {
+              "id": "9419033",
+              "nama": "BONGGO BARAT"
+          },
+          {
+              "id": "9419040",
+              "nama": "TOR ATAS"
+          },
+          {
+              "id": "9419041",
+              "nama": "ISMARI"
+          },
+          {
+              "id": "9419050",
+              "nama": "SARMI"
+          },
+          {
+              "id": "9419051",
+              "nama": "SARMI TIMUR"
+          },
+          {
+              "id": "9419052",
+              "nama": "SARMI SELATAN"
+          },
+          {
+              "id": "9419053",
+              "nama": "SOBEY"
+          },
+          {
+              "id": "9419054",
+              "nama": "MUARA TOR"
+          },
+          {
+              "id": "9419055",
+              "nama": "VERKAM"
+          },
+          {
+              "id": "9419060",
+              "nama": "PANTAI BARAT"
+          },
+          {
+              "id": "9419061",
+              "nama": "APAWER HULU"
+          },
+          {
+              "id": "9419062",
+              "nama": "APAWER HILIR"
+          },
+          {
+              "id": "9419063",
+              "nama": "APAWER TENGAH"
+          }
+      ]
+  }
+]
