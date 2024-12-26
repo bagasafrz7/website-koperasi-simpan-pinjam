@@ -1,6 +1,6 @@
 'use client';
 
-import { usePathname } from 'next/navigation';
+import { useParams, usePathname } from 'next/navigation';
 import { useMemo } from 'react';
 
 type BreadcrumbItem = {
@@ -8,30 +8,65 @@ type BreadcrumbItem = {
   link: string;
 };
 
-// This allows to add custom title as well
-const routeMapping: Record<string, BreadcrumbItem[]> = {
-  '/dashboard': [{ title: 'Dashboard', link: '/dashboard' }],
-  '/dashboard/employee': [
-    { title: 'Dashboard', link: '/dashboard' },
-    { title: 'Employee', link: '/dashboard/employee' }
-  ],
-  '/dashboard/product': [
-    { title: 'Dashboard', link: '/dashboard' },
-    { title: 'Product', link: '/dashboard/product' }
-  ]
-  // Add more custom mappings as needed
+type RouteConfig = {
+  pattern: string;
+  breadcrumbs: BreadcrumbItem[];
 };
 
 export function useBreadcrumbs() {
   const pathname = usePathname();
+  const params = useParams();
+  const id =
+    typeof params?.id === 'string' ? parseInt(params.id, 10) : undefined;
+
+  // Define routes with patterns that can match dynamic segments
+  const routeConfigs: RouteConfig[] = [
+    {
+      pattern: '/dashboard',
+      breadcrumbs: [{ title: 'Dashboard', link: '/dashboard' }]
+    },
+    {
+      pattern: '/admin/master-data/wilayah/provinces',
+      breadcrumbs: [
+        { title: 'Dashboard', link: '/dashboard/overview' },
+        { title: 'Wilayah', link: '/admin/master-data/wilayah/provinces' }
+      ]
+    },
+    {
+      pattern: '/admin/master-data/wilayah/city/:id',
+      breadcrumbs: [
+        { title: 'Dashboard', link: '/dashboard/overview' },
+        { title: 'Provinsi', link: '/admin/master-data/wilayah/provinces' },
+        { title: 'Kota', link: `/admin/master-data/wilayah/city/${id}` }
+      ]
+    }
+  ];
 
   const breadcrumbs = useMemo(() => {
-    // Check if we have a custom mapping for this exact path
-    if (routeMapping[pathname]) {
-      return routeMapping[pathname];
+    // Function to match route patterns with dynamic segments
+    const matchRoute = (pattern: string): boolean => {
+      const patternSegments = pattern.split('/');
+      const pathSegments = pathname.split('/');
+
+      if (patternSegments.length !== pathSegments.length) return false;
+
+      return patternSegments.every((segment, index) => {
+        // Match dynamic segments (starting with :)
+        if (segment.startsWith(':')) return true;
+        return segment === pathSegments[index];
+      });
+    };
+
+    // Find matching route configuration
+    const matchedRoute = routeConfigs.find((config) =>
+      matchRoute(config.pattern)
+    );
+
+    if (matchedRoute) {
+      return matchedRoute.breadcrumbs;
     }
 
-    // If no exact match, fall back to generating breadcrumbs from the path
+    // Fallback: generate breadcrumbs from pathname
     const segments = pathname.split('/').filter(Boolean);
     return segments.map((segment, index) => {
       const path = `/${segments.slice(0, index + 1).join('/')}`;
@@ -40,7 +75,7 @@ export function useBreadcrumbs() {
         link: path
       };
     });
-  }, [pathname]);
+  }, [pathname, id]);
 
   return breadcrumbs;
 }
