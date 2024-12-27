@@ -150,7 +150,7 @@ export const navItemsAdmin: NavItem[] = [
       },
       {
         title: 'Data Penggguna',
-        url: '/admin/master-data/pengguna',
+        url: '/admin/master-data/users',
         icon: 'userPen',
         shortcut: ['p', 'p']
       },

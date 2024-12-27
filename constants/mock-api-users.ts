@@ -50,18 +50,19 @@ const mockUsers: User[] = [
 ];
 
 export const fakeUsers = {
-  records: [...mockUsers] as User[],
+  records: [...mockUsers],
 
-  initialize() {
-    try {
-      // In a real application, you might want to load data from an API or local storage here
-      this.records = [...mockUsers];
-    } catch (error) {
-      this.records = [];
-    }
-  },
-
-  async getAll({ page = 1, limit = 10, search = '', role }: { page?: number; limit?: number; search?: string; role?: UserRole }) {
+  async getAll({
+    page = 1,
+    limit = 10,
+    search = '',
+    role
+  }: {
+    page?: number;
+    limit?: number;
+    search?: string;
+    role?: UserRole
+  }) {
     try {
       await delay(500);
       let users = [...this.records];
@@ -116,19 +117,23 @@ export const fakeUsers = {
     try {
       await delay(500);
 
+      // Validation
       if (!newUser.name || !newUser.email || !newUser.phone_number || !newUser.role) {
         return { success: false, message: "Semua field harus diisi." };
       }
 
+      // Email format validation
       const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
       if (!emailRegex.test(newUser.email)) {
         return { success: false, message: "Format email tidak valid." };
       }
 
+      // Check if email already exists
       if (this.records.some(user => user.email === newUser.email)) {
         return { success: false, message: "Email sudah terdaftar." };
       }
 
+      // Phone number format validation (simple Indonesian format)
       const phoneRegex = /^08\d{8,11}$/;
       if (!phoneRegex.test(newUser.phone_number)) {
         return { success: false, message: "Format nomor telepon tidak valid." };
@@ -146,7 +151,7 @@ export const fakeUsers = {
     }
   },
 
-  async updateUser(id: number, data: Partial<Omit<User, 'id'>>) {
+  async updateUser(id: number, data: Partial<User>) {
     try {
       await delay(500);
       const index = this.records.findIndex((user) => user.id === id);
@@ -155,17 +160,20 @@ export const fakeUsers = {
         return { success: false, message: `User dengan ID ${id} tidak ditemukan` };
       }
 
+      // Email validation if email is being updated
       if (data.email) {
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
         if (!emailRegex.test(data.email)) {
           return { success: false, message: "Format email tidak valid." };
         }
 
+        // Check if new email already exists for other users
         if (this.records.some(user => user.email === data.email && user.id !== id)) {
           return { success: false, message: "Email sudah terdaftar." };
         }
       }
 
+      // Phone number validation if being updated
       if (data.phone_number) {
         const phoneRegex = /^08\d{8,11}$/;
         if (!phoneRegex.test(data.phone_number)) {
@@ -202,7 +210,5 @@ export const fakeUsers = {
     } catch (error) {
       return { success: false, message: "Gagal menghapus user." };
     }
-  },
+  }
 };
-
-fakeUsers.initialize();

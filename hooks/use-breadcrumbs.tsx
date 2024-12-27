@@ -54,6 +54,13 @@ export function useBreadcrumbs() {
           link: `/admin/master-data/wilayah/city/${citiesId}`
         }
       ]
+    },
+    {
+      pattern: '/admin/master-data/users',
+      breadcrumbs: [
+        { title: 'Dashboard', link: '/dashboard/overview' },
+        { title: 'Pengguna', link: '/admin/master-data/users' }
+      ]
     }
   ];
 
