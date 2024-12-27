@@ -18,6 +18,10 @@ export function useBreadcrumbs() {
   const params = useParams();
   const id =
     typeof params?.id === 'string' ? parseInt(params.id, 10) : undefined;
+  const citiesId =
+    typeof params?.citiesId === 'string'
+      ? parseInt(params.citiesId, 10)
+      : undefined;
 
   // Define routes with patterns that can match dynamic segments
   const routeConfigs: RouteConfig[] = [
@@ -38,6 +42,17 @@ export function useBreadcrumbs() {
         { title: 'Dashboard', link: '/dashboard/overview' },
         { title: 'Provinsi', link: '/admin/master-data/wilayah/provinces' },
         { title: 'Kota', link: `/admin/master-data/wilayah/city/${id}` }
+      ]
+    },
+    {
+      pattern: '/admin/master-data/wilayah/subdistrict/:id',
+      breadcrumbs: [
+        { title: 'Dashboard', link: '/dashboard/overview' },
+        { title: 'Provinsi', link: '/admin/master-data/wilayah/provinces' },
+        {
+          title: 'Kabupaten/Kota',
+          link: `/admin/master-data/wilayah/city/${citiesId}`
+        }
       ]
     }
   ];
