@@ -46,7 +46,7 @@ export default function ProvincesListingPage() {
   const [totalProvinces, setTotalProvinces] = useState(0);
   const [isDialogOpen, setIsDialogOpen] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [provinceId, setProvinceId] = useState<undefined | number>(undefined);
+  const [provinceId, setProvinceId] = useState<null | number>(null);
 
   const page = searchParams.get('page');
   const search = searchParams.get('q');
@@ -97,7 +97,7 @@ export default function ProvincesListingPage() {
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
     defaultValues: {
-      id: provinceId,
+      id: provinceId || undefined,
       name: ''
     }
   });
@@ -114,6 +114,11 @@ export default function ProvincesListingPage() {
         } else {
           toast.error('Provinsi tidak ditemukan');
         }
+      });
+    } else {
+      form.reset({
+        id: undefined,
+        name: ''
       });
     }
   }, [provinceId, form]);
@@ -153,7 +158,11 @@ export default function ProvincesListingPage() {
 
           <p
             // href="/admin/master-data/wilayah/new"
-            onClick={() => setIsDialogOpen(true)}
+            onClick={() => {
+              setProvinceId(null);
+              form.reset();
+              setIsDialogOpen(true);
+            }}
             className={cn(
               buttonVariants({ variant: 'default' }),
               'cursor-pointer'
