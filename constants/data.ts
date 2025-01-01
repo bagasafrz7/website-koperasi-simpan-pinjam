@@ -170,22 +170,22 @@ export const navItemsAdmin: NavItem[] = [
     items: [
       {
         title: 'Data Simpanan',
-        url: '/admin/laporan/simpanan',
+        url: '/admin/report/savings',
         icon: 'userPen',
         shortcut: ['ls', 'ls']
       },
       {
         title: 'Data Pinjaman',
-        url: '/admin/laporan/Pinjaman',
+        url: '/admin/report/loans',
         icon: 'userPen',
         shortcut: ['lp', 'lp']
       },
-      {
-        title: 'Data Umum',
-        url: '/admin/laporan/umum',
-        icon: 'userPen',
-        shortcut: ['lu', 'lu']
-      },
+      // {
+      //   title: 'Data Umum',
+      //   url: '/admin/laporan/umum',
+      //   icon: 'userPen',
+      //   shortcut: ['lu', 'lu']
+      // },
     ]
   }
 ];
