@@ -15,7 +15,7 @@ export default function EmployeeTable({
   data,
   totalData
 }: {
-  data: Employee[];
+  data: any;
   totalData: number;
 }) {
   const {

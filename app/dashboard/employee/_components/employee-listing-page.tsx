@@ -27,9 +27,9 @@ export default async function EmployeeListingPage({}: TEmployeeListingPage) {
   };
 
   // mock api call
-  const data = await fakeUsers.getUsers(filters);
+  const data = await fakeUsers.getAll(filters);
   const totalUsers = data.total_users;
-  const employee: Employee[] = data.users;
+  const employee: any = data.users;
 
   return (
     <PageContainer scrollable>
@@ -48,7 +48,7 @@ export default async function EmployeeListingPage({}: TEmployeeListingPage) {
           </Link>
         </div>
         <Separator />
-        <EmployeeTable data={employee} totalData={totalUsers} />
+        <EmployeeTable data={employee} totalData={totalUsers || 0} />
       </div>
     </PageContainer>
   );
