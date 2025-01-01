@@ -154,12 +154,12 @@ export const navItemsAdmin: NavItem[] = [
         icon: 'userPen',
         shortcut: ['p', 'p']
       },
-      {
-        title: 'Data Umum',
-        url: '/admin/master-data/umum',
-        icon: 'userPen',
-        shortcut: ['u', 'u']
-      },
+      // {
+      //   title: 'Data Umum',
+      //   url: '/admin/master-data/umum',
+      //   icon: 'userPen',
+      //   shortcut: ['u', 'u']
+      // },
     ]
   },
   {

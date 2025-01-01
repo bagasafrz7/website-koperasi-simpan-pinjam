@@ -103,8 +103,7 @@ export default function ProvincesListingPage() {
   });
 
   useEffect(() => {
-    if (provinceId) {
-      // Ambil data provinsi berdasarkan ID
+    if (provinceId !== null) {
       fakeProvinces.getProvinceById(provinceId).then((response: any) => {
         if (response.success) {
           form.reset({
