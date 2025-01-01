@@ -199,13 +199,13 @@ export const navItemsUser: NavItem[] = [
     shortcut: ['d', 'd'],
     items: []
   },
-  {
-    title: 'Profile',
-    url: '/user/profile',
-    icon: 'userPen',
-    shortcut: ['pr', 'pr'],
-    items: []
-  },
+  // {
+  //   title: 'Profile',
+  //   url: '/user/profile',
+  //   icon: 'userPen',
+  //   shortcut: ['pr', 'pr'],
+  //   items: []
+  // },
   {
     title: 'Ajukan Simpan/Pinjam',
     url: '/user/ajukan',
