@@ -1,9 +1,9 @@
-import OverViewPage from './_components/overview';
+import Dashboard from './_components/dashboard';
 
 export const metadata = {
   title: 'Dashboard : Overview'
 };
 
 export default function page() {
-  return <OverViewPage />;
+  return <Dashboard />;
 }
